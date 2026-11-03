@@ -19,6 +19,14 @@
       {
         "link": "https://pintia.cn/rankings/1911705434392723456",
         "title": "原始榜单"
+      },
+      {
+        "title": "获奖名单",
+        "link": "https://github.com/user-attachments/files/34272848/1_2025.1.xlsx"
+      },
+      {
+        "title": "参赛手册",
+        "link": "https://github.com/user-attachments/files/34272849/2025.pdf"
       }
     ]
   },
@@ -26,10 +34,6 @@
     "algoUX (https://algoux.org)",
     "HeiMaoM"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "series": [
     {
       "title": "#",
@@ -52,9 +56,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              23,
+              19,
+              18
             ]
           }
         }
@@ -501,17 +505,41 @@
     {
       "user": {
         "id": "48",
-        "name": "world.search(you);",
+        "name": {
+          "zh-CN": "world.search(you);",
+          "en-US": "world.search(you);",
+          "fallback": "world.search(you);"
+        },
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "张景行"
+            "name": {
+              "zh-CN": "张景行",
+              "en-US": "Zhang Jingxing",
+              "fallback": "张景行"
+            }
           },
           {
-            "name": "刘一平"
+            "name": {
+              "zh-CN": "刘一平",
+              "en-US": "Liu Yiping",
+              "fallback": "刘一平"
+            }
           },
           {
-            "name": "万成章"
+            "name": {
+              "zh-CN": "万成章",
+              "en-US": "Wan Chengzhang",
+              "fallback": "万成章"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邬晓钧",
+              "en-US": "Wu Xiaojun",
+              "fallback": "邬晓钧"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -737,17 +765,41 @@
     {
       "user": {
         "id": "97",
-        "name": "摩可彭塔斯",
+        "name": {
+          "zh-CN": "摩可彭塔斯",
+          "en-US": "Mocopentas",
+          "fallback": "摩可彭塔斯"
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "鲍睿钊"
+            "name": {
+              "zh-CN": "鲍睿钊",
+              "en-US": "Bao Ruizhao",
+              "fallback": "鲍睿钊"
+            }
           },
           {
-            "name": "区庆亮"
+            "name": {
+              "zh-CN": "区庆亮",
+              "en-US": "Qu Qingliang",
+              "fallback": "区庆亮"
+            }
           },
           {
-            "name": "谭怡萱"
+            "name": {
+              "zh-CN": "谭怡萱",
+              "en-US": "Tan Yixuan",
+              "fallback": "谭怡萱"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -987,17 +1039,41 @@
     {
       "user": {
         "id": "65",
-        "name": "夏日影",
+        "name": {
+          "zh-CN": "夏日影",
+          "en-US": "Natsuhi Kage",
+          "fallback": "夏日影"
+        },
         "organization": "上海交通大学",
         "teamMembers": [
           {
-            "name": "朱泽木"
+            "name": {
+              "zh-CN": "朱泽木",
+              "en-US": "Zhu Zemu",
+              "fallback": "朱泽木"
+            }
           },
           {
-            "name": "刘家宁"
+            "name": {
+              "zh-CN": "刘家宁",
+              "en-US": "Liu Jianing",
+              "fallback": "刘家宁"
+            }
           },
           {
-            "name": "冯启豫"
+            "name": {
+              "zh-CN": "冯启豫",
+              "en-US": "Feng Qiyu",
+              "fallback": "冯启豫"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "俞勇",
+              "en-US": "Yu Yong",
+              "fallback": "俞勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -1261,17 +1337,41 @@
     {
       "user": {
         "id": "99",
-        "name": "羊羊羊",
+        "name": {
+          "zh-CN": "羊羊羊",
+          "en-US": "miemiemie",
+          "fallback": "羊羊羊"
+        },
         "organization": "北京交通大学",
         "teamMembers": [
           {
-            "name": "郭昱哲"
+            "name": {
+              "zh-CN": "郭昱哲",
+              "en-US": "Guo Yuzhe",
+              "fallback": "郭昱哲"
+            }
           },
           {
-            "name": "斯修远"
+            "name": {
+              "zh-CN": "斯修远",
+              "en-US": "Si Xiuyuan",
+              "fallback": "斯修远"
+            }
           },
           {
-            "name": "夏鹤鸣"
+            "name": {
+              "zh-CN": "夏鹤鸣",
+              "en-US": "Xia Heming",
+              "fallback": "夏鹤鸣"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄华",
+              "en-US": "Huang Hua",
+              "fallback": "黄华"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -1490,17 +1590,41 @@
     {
       "user": {
         "id": "63",
-        "name": "摇奖出力",
+        "name": {
+          "zh-CN": "摇奖出力",
+          "en-US": "afhrxyyyzzz",
+          "fallback": "摇奖出力"
+        },
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "黄子睿"
+            "name": {
+              "zh-CN": "黄子睿",
+              "en-US": "Huang Zirui",
+              "fallback": "黄子睿"
+            }
           },
           {
-            "name": "颜桉"
+            "name": {
+              "zh-CN": "颜桉",
+              "en-US": "Yan An",
+              "fallback": "颜桉"
+            }
           },
           {
-            "name": "周与锋"
+            "name": {
+              "zh-CN": "周与锋",
+              "en-US": "Zhou Yufeng",
+              "fallback": "周与锋"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邬晓钧",
+              "en-US": "Wu Xiaojun",
+              "fallback": "邬晓钧"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -1996,17 +2120,41 @@
     {
       "user": {
         "id": "95",
-        "name": "蓬莱人形",
+        "name": {
+          "zh-CN": "蓬莱人形",
+          "en-US": "Dolls in Pseudo Paradise",
+          "fallback": "蓬莱人形"
+        },
         "organization": "哈尔滨工业大学",
         "teamMembers": [
           {
-            "name": "张彭凯"
+            "name": {
+              "zh-CN": "张彭凯",
+              "en-US": "Zhang Pengkai",
+              "fallback": "张彭凯"
+            }
           },
           {
-            "name": "丁文涛"
+            "name": {
+              "zh-CN": "丁文涛",
+              "en-US": "Ding Wentao",
+              "fallback": "丁文涛"
+            }
           },
           {
-            "name": "陈煜航"
+            "name": {
+              "zh-CN": "陈煜航",
+              "en-US": "Chen Yuhang",
+              "fallback": "陈煜航"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵文博",
+              "en-US": "Zhao Wenbo",
+              "fallback": "赵文博"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -2235,17 +2383,41 @@
     {
       "user": {
         "id": "106",
-        "name": "进行一个象的抽",
+        "name": {
+          "zh-CN": "进行一个象的抽",
+          "en-US": "Deboox",
+          "fallback": "进行一个象的抽"
+        },
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "张怀沙"
+            "name": {
+              "zh-CN": "张怀沙",
+              "en-US": "Zhang Huaisha",
+              "fallback": "张怀沙"
+            }
           },
           {
-            "name": "王锦博"
+            "name": {
+              "zh-CN": "王锦博",
+              "en-US": "Wang Jinbo",
+              "fallback": "王锦博"
+            }
           },
           {
-            "name": "张睿阳"
+            "name": {
+              "zh-CN": "张睿阳",
+              "en-US": "Zhang Ruiyang",
+              "fallback": "张睿阳"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邬晓钧",
+              "en-US": "Wu Xiaojun",
+              "fallback": "邬晓钧"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -2436,17 +2608,41 @@
     {
       "user": {
         "id": "113",
-        "name": "字节无虞",
+        "name": {
+          "zh-CN": "字节无虞",
+          "en-US": "ByteByeBugs",
+          "fallback": "字节无虞"
+        },
         "organization": "中国人民大学",
         "teamMembers": [
           {
-            "name": "刘嘉俊"
+            "name": {
+              "zh-CN": "刘嘉俊",
+              "en-US": "Liu Jiajun",
+              "fallback": "刘嘉俊"
+            }
           },
           {
-            "name": "钱泽瑄"
+            "name": {
+              "zh-CN": "钱泽瑄",
+              "en-US": "Qian Zexuan",
+              "fallback": "钱泽瑄"
+            }
           },
           {
-            "name": "陈礼邦"
+            "name": {
+              "zh-CN": "陈礼邦",
+              "en-US": "Chen Libang",
+              "fallback": "陈礼邦"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙辉",
+              "en-US": "Sun Hui",
+              "fallback": "孙辉"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -2623,17 +2819,41 @@
     {
       "user": {
         "id": "105",
-        "name": "蒋大军全国后援会",
+        "name": {
+          "zh-CN": "蒋大军全国后援会",
+          "en-US": "JDJ fanclub official",
+          "fallback": "蒋大军全国后援会"
+        },
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "王大禹"
+            "name": {
+              "zh-CN": "王大禹",
+              "en-US": "Wang Dayu",
+              "fallback": "王大禹"
+            }
           },
           {
-            "name": "董和军"
+            "name": {
+              "zh-CN": "董和军",
+              "en-US": "Dong Hejun",
+              "fallback": "董和军"
+            }
           },
           {
-            "name": "蒋槟阳"
+            "name": {
+              "zh-CN": "蒋槟阳",
+              "en-US": "Jiang Binyang",
+              "fallback": "蒋槟阳"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋友",
+              "en-US": "Song You",
+              "fallback": "宋友"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -3105,17 +3325,41 @@
     {
       "user": {
         "id": "68",
-        "name": "树上的忍者",
+        "name": {
+          "zh-CN": "树上的忍者",
+          "en-US": "Mako, suki",
+          "fallback": "树上的忍者"
+        },
         "organization": "上海大学",
         "teamMembers": [
           {
-            "name": "陶钧"
+            "name": {
+              "zh-CN": "陶钧",
+              "en-US": "Tao Jun",
+              "fallback": "陶钧"
+            }
           },
           {
-            "name": "松浩然"
+            "name": {
+              "zh-CN": "松浩然",
+              "en-US": "Song Haoran",
+              "fallback": "松浩然"
+            }
           },
           {
-            "name": "耿鹏成"
+            "name": {
+              "zh-CN": "耿鹏成",
+              "en-US": "Geng Pengcheng",
+              "fallback": "耿鹏成"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "沈俊",
+              "en-US": "Shen Jun",
+              "fallback": "沈俊"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -3386,17 +3630,41 @@
     {
       "user": {
         "id": "96",
-        "name": "w4p3r Black-fan Club",
+        "name": {
+          "zh-CN": "w4p3r Black-fan Club",
+          "en-US": "w4p3r Hater Club",
+          "fallback": "w4p3r Black-fan Club"
+        },
         "organization": "哈尔滨工业大学",
         "teamMembers": [
           {
-            "name": "杜沛键"
+            "name": {
+              "zh-CN": "杜沛键",
+              "en-US": "Du Peijian",
+              "fallback": "杜沛键"
+            }
           },
           {
-            "name": "谢书泱"
+            "name": {
+              "zh-CN": "谢书泱",
+              "en-US": "Xie Shuyang",
+              "fallback": "谢书泱"
+            }
           },
           {
-            "name": "邱思宇"
+            "name": {
+              "zh-CN": "邱思宇",
+              "en-US": "Qiu Siyu",
+              "fallback": "邱思宇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵文博",
+              "en-US": "Zhao Wenbo",
+              "fallback": "赵文博"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -3615,17 +3883,41 @@
     {
       "user": {
         "id": "108",
-        "name": "此地无银三百两",
+        "name": {
+          "zh-CN": "此地无银三百两",
+          "en-US": "Here's no Ag",
+          "fallback": "此地无银三百两"
+        },
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "华羽帆"
+            "name": {
+              "zh-CN": "华羽帆",
+              "en-US": "Hua Yufan",
+              "fallback": "华羽帆"
+            }
           },
           {
-            "name": "李春进"
+            "name": {
+              "zh-CN": "李春进",
+              "en-US": "Li Chunjin",
+              "fallback": "李春进"
+            }
           },
           {
-            "name": "孙梓皓"
+            "name": {
+              "zh-CN": "孙梓皓",
+              "en-US": "Sun Zihao",
+              "fallback": "孙梓皓"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邬晓钧",
+              "en-US": "Wu Xiaojun",
+              "fallback": "邬晓钧"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -3889,17 +4181,41 @@
     {
       "user": {
         "id": "88",
-        "name": "东北大学_东北大鱼棒",
+        "name": {
+          "zh-CN": "东北大学_东北大鱼棒",
+          "en-US": "NEU_SuperFishRod",
+          "fallback": "东北大学_东北大鱼棒"
+        },
         "organization": "东北大学",
         "teamMembers": [
           {
-            "name": "苏焜"
+            "name": {
+              "zh-CN": "苏焜",
+              "en-US": "Su Kun",
+              "fallback": "苏焜"
+            }
           },
           {
-            "name": "谢天石"
+            "name": {
+              "zh-CN": "谢天石",
+              "en-US": "Xie Tianshi",
+              "fallback": "谢天石"
+            }
           },
           {
-            "name": "张佳栋"
+            "name": {
+              "zh-CN": "张佳栋",
+              "en-US": "Zhang Jiadong",
+              "fallback": "张佳栋"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘小锋",
+              "en-US": "Liu Xiaofeng",
+              "fallback": "刘小锋"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -4162,17 +4478,41 @@
     {
       "user": {
         "id": "84",
-        "name": "南京也是京",
+        "name": {
+          "zh-CN": "南京也是京",
+          "en-US": "南京也是京",
+          "fallback": "南京也是京"
+        },
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "陈子达"
+            "name": {
+              "zh-CN": "陈子达",
+              "en-US": "Chen Zida",
+              "fallback": "陈子达"
+            }
           },
           {
-            "name": "朱羽宽"
+            "name": {
+              "zh-CN": "朱羽宽",
+              "en-US": "Zhu Yukuan",
+              "fallback": "朱羽宽"
+            }
           },
           {
-            "name": "张瑞珉"
+            "name": {
+              "zh-CN": "张瑞珉",
+              "en-US": "Zhang Ruimin",
+              "fallback": "张瑞珉"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马骏",
+              "en-US": "Ma Jun",
+              "fallback": "马骏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -4419,17 +4759,41 @@
     {
       "user": {
         "id": "29",
-        "name": "影色舞",
+        "name": {
+          "zh-CN": "影色舞",
+          "en-US": "Silhouette Dance",
+          "fallback": "影色舞"
+        },
         "organization": "上海交通大学",
         "teamMembers": [
           {
-            "name": "戴之恒"
+            "name": {
+              "zh-CN": "戴之恒",
+              "en-US": "Dai Zhiheng",
+              "fallback": "戴之恒"
+            }
           },
           {
-            "name": "胡豪达"
+            "name": {
+              "zh-CN": "胡豪达",
+              "en-US": "Hu Haoda",
+              "fallback": "胡豪达"
+            }
           },
           {
-            "name": "王越"
+            "name": {
+              "zh-CN": "王越",
+              "en-US": "Wang Yue",
+              "fallback": "王越"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "俞勇",
+              "en-US": "Yu Yong",
+              "fallback": "俞勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -4634,17 +4998,41 @@
     {
       "user": {
         "id": "81",
-        "name": "智慧之树",
+        "name": {
+          "zh-CN": "智慧之树",
+          "en-US": "Qliphoth",
+          "fallback": "智慧之树"
+        },
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "陈新"
+            "name": {
+              "zh-CN": "陈新",
+              "en-US": "Chen Xin",
+              "fallback": "陈新"
+            }
           },
           {
-            "name": "李睿星"
+            "name": {
+              "zh-CN": "李睿星",
+              "en-US": "Li Ruixing",
+              "fallback": "李睿星"
+            }
           },
           {
-            "name": "金昕炜"
+            "name": {
+              "zh-CN": "金昕炜",
+              "en-US": "Jin Xinwei",
+              "fallback": "金昕炜"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马骏",
+              "en-US": "Ma Jun",
+              "fallback": "马骏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -4852,17 +5240,41 @@
     {
       "user": {
         "id": "39",
-        "name": "ZJUT0",
+        "name": {
+          "zh-CN": "ZJUT0",
+          "en-US": "ZJUT0",
+          "fallback": "ZJUT0"
+        },
         "organization": "浙江工业大学",
         "teamMembers": [
           {
-            "name": "陆仙梁"
+            "name": {
+              "zh-CN": "陆仙梁",
+              "en-US": "Lu Xianliang",
+              "fallback": "陆仙梁"
+            }
           },
           {
-            "name": "冯梓航"
+            "name": {
+              "zh-CN": "冯梓航",
+              "en-US": "Feng Zihang",
+              "fallback": "冯梓航"
+            }
           },
           {
-            "name": "陈泓睿"
+            "name": {
+              "zh-CN": "陈泓睿",
+              "en-US": "Chen Hongrui",
+              "fallback": "陈泓睿"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩姗姗",
+              "en-US": "Han Shanshan",
+              "fallback": "韩姗姗"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -5091,17 +5503,41 @@
     {
       "user": {
         "id": "54",
-        "name": "错误",
+        "name": {
+          "zh-CN": "错误",
+          "en-US": "bug",
+          "fallback": "错误"
+        },
         "organization": "南京航空航天大学",
         "teamMembers": [
           {
-            "name": "赵乐坤"
+            "name": {
+              "zh-CN": "赵乐坤",
+              "en-US": "Zhao Lekun",
+              "fallback": "赵乐坤"
+            }
           },
           {
-            "name": "吕俊琪"
+            "name": {
+              "zh-CN": "吕俊琪",
+              "en-US": "Lv Junqi",
+              "fallback": "吕俊琪"
+            }
           },
           {
-            "name": "胡昊天"
+            "name": {
+              "zh-CN": "胡昊天",
+              "en-US": "Hu Haotian",
+              "fallback": "胡昊天"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邹春然",
+              "en-US": "Zou Chunran",
+              "fallback": "邹春然"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -5292,17 +5728,41 @@
     {
       "user": {
         "id": "44",
-        "name": "平流层",
+        "name": {
+          "zh-CN": "平流层",
+          "en-US": "Stratosphere",
+          "fallback": "平流层"
+        },
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "潘谟天"
+            "name": {
+              "zh-CN": "潘谟天",
+              "en-US": "Pan Motian",
+              "fallback": "潘谟天"
+            }
           },
           {
-            "name": "陈梓睿"
+            "name": {
+              "zh-CN": "陈梓睿",
+              "en-US": "Chen Zirui",
+              "fallback": "陈梓睿"
+            }
           },
           {
-            "name": "陆华均"
+            "name": {
+              "zh-CN": "陆华均",
+              "en-US": "Lu Huajun",
+              "fallback": "陆华均"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马骏",
+              "en-US": "Ma Jun",
+              "fallback": "马骏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -5514,17 +5974,41 @@
     {
       "user": {
         "id": "107",
-        "name": "构造蚂蚁",
+        "name": {
+          "zh-CN": "构造蚂蚁",
+          "en-US": "Constructant",
+          "fallback": "构造蚂蚁"
+        },
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "李澎瑞"
+            "name": {
+              "zh-CN": "李澎瑞",
+              "en-US": "Li Pengrui",
+              "fallback": "李澎瑞"
+            }
           },
           {
-            "name": "孙健钧"
+            "name": {
+              "zh-CN": "孙健钧",
+              "en-US": "Sun Jianjun",
+              "fallback": "孙健钧"
+            }
           },
           {
-            "name": "黄伟宁"
+            "name": {
+              "zh-CN": "黄伟宁",
+              "en-US": "Huang Weining",
+              "fallback": "黄伟宁"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋友",
+              "en-US": "Song You",
+              "fallback": "宋友"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -5729,17 +6213,41 @@
     {
       "user": {
         "id": "80",
-        "name": "中山大学_橙黄绿青蓝紫温之旅",
+        "name": {
+          "zh-CN": "中山大学_橙黄绿青蓝紫温之旅",
+          "en-US": "SYSU_OYGIBV",
+          "fallback": "中山大学_橙黄绿青蓝紫温之旅"
+        },
         "organization": "中山大学",
         "teamMembers": [
           {
-            "name": "张宸睿"
+            "name": {
+              "zh-CN": "张宸睿",
+              "en-US": "Zhang Chenrui",
+              "fallback": "张宸睿"
+            }
           },
           {
-            "name": "张益晟"
+            "name": {
+              "zh-CN": "张益晟",
+              "en-US": "Zhang Yicheng",
+              "fallback": "张益晟"
+            }
           },
           {
-            "name": "周睿韬"
+            "name": {
+              "zh-CN": "周睿韬",
+              "en-US": "Zhou Ruitao",
+              "fallback": "周睿韬"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张子臻",
+              "en-US": "Zhang Zizhen",
+              "fallback": "张子臻"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -5968,17 +6476,41 @@
     {
       "user": {
         "id": "98",
-        "name": "白夜追风",
+        "name": {
+          "zh-CN": "白夜追风",
+          "en-US": "Infinity",
+          "fallback": "白夜追风"
+        },
         "organization": "北京交通大学",
         "teamMembers": [
           {
-            "name": "杨展宇"
+            "name": {
+              "zh-CN": "杨展宇",
+              "en-US": "Yang Zhanyu",
+              "fallback": "杨展宇"
+            }
           },
           {
-            "name": "殷澄宇"
+            "name": {
+              "zh-CN": "殷澄宇",
+              "en-US": "Yin Chengyu",
+              "fallback": "殷澄宇"
+            }
           },
           {
-            "name": "陈可致"
+            "name": {
+              "zh-CN": "陈可致",
+              "en-US": "Chen Kezhi",
+              "fallback": "陈可致"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许华婷",
+              "en-US": "Xu Huating",
+              "fallback": "许华婷"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -6284,17 +6816,41 @@
     {
       "user": {
         "id": "23",
-        "name": "我要吃北京烤鸭",
+        "name": {
+          "zh-CN": "我要吃北京烤鸭",
+          "en-US": "I want to eat Beijing roast duck",
+          "fallback": "我要吃北京烤鸭"
+        },
         "organization": "浙江理工大学",
         "teamMembers": [
           {
-            "name": "干佳立"
+            "name": {
+              "zh-CN": "干佳立",
+              "en-US": "Gan Jiali",
+              "fallback": "干佳立"
+            }
           },
           {
-            "name": "张浩"
+            "name": {
+              "zh-CN": "张浩",
+              "en-US": "Zhang Hao",
+              "fallback": "张浩"
+            }
           },
           {
-            "name": "项帅"
+            "name": {
+              "zh-CN": "项帅",
+              "en-US": "Xiang Shuai",
+              "fallback": "项帅"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶海荣",
+              "en-US": "Ye Hairong",
+              "fallback": "叶海荣"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -6443,17 +6999,41 @@
     {
       "user": {
         "id": "117",
-        "name": "苹果狗",
+        "name": {
+          "zh-CN": "苹果狗",
+          "en-US": "app1edog",
+          "fallback": "苹果狗"
+        },
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "王儒斌"
+            "name": {
+              "zh-CN": "王儒斌",
+              "en-US": "Wang Rubin",
+              "fallback": "王儒斌"
+            }
           },
           {
-            "name": "季涛"
+            "name": {
+              "zh-CN": "季涛",
+              "en-US": "Ji Tao",
+              "fallback": "季涛"
+            }
           },
           {
-            "name": "陈志锐"
+            "name": {
+              "zh-CN": "陈志锐",
+              "en-US": "Chen Zhirui",
+              "fallback": "陈志锐"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏飞",
+              "en-US": "Xu Pengfei",
+              "fallback": "徐鹏飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -6623,17 +7203,41 @@
     {
       "user": {
         "id": "15",
-        "name": "此队伍名由AI生成",
+        "name": {
+          "zh-CN": "此队伍名由AI生成",
+          "en-US": "(AI generated)",
+          "fallback": "此队伍名由AI生成"
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "张鲁豫"
+            "name": {
+              "zh-CN": "张鲁豫",
+              "en-US": "Zhang Luyu",
+              "fallback": "张鲁豫"
+            }
           },
           {
-            "name": "蔡芝林"
+            "name": {
+              "zh-CN": "蔡芝林",
+              "en-US": "Cai Zhilin",
+              "fallback": "蔡芝林"
+            }
           },
           {
-            "name": "赵思涵"
+            "name": {
+              "zh-CN": "赵思涵",
+              "en-US": "Zhao Sihan",
+              "fallback": "赵思涵"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -6827,17 +7431,41 @@
     {
       "user": {
         "id": "53",
-        "name": "期末成绩没 Dirt 率高",
+        "name": {
+          "zh-CN": "期末成绩没 Dirt 率高",
+          "en-US": "Grades less than Dirt Rate",
+          "fallback": "期末成绩没 Dirt 率高"
+        },
         "organization": "北京建筑大学",
         "teamMembers": [
           {
-            "name": "朱智睿"
+            "name": {
+              "zh-CN": "朱智睿",
+              "en-US": "Zhu Zhirui",
+              "fallback": "朱智睿"
+            }
           },
           {
-            "name": "张禾"
+            "name": {
+              "zh-CN": "张禾",
+              "en-US": "Zhang He",
+              "fallback": "张禾"
+            }
           },
           {
-            "name": "谷子恒"
+            "name": {
+              "zh-CN": "谷子恒",
+              "en-US": "Gu Ziheng",
+              "fallback": "谷子恒"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "钱丽萍",
+              "en-US": "Qian Liping",
+              "fallback": "钱丽萍"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -7028,17 +7656,41 @@
     {
       "user": {
         "id": "8",
-        "name": "电话微波炉（暂定）",
+        "name": {
+          "zh-CN": "电话微波炉（暂定）",
+          "en-US": "Steins;Gate",
+          "fallback": "电话微波炉（暂定）"
+        },
         "organization": "山东大学",
         "teamMembers": [
           {
-            "name": "宿子腾"
+            "name": {
+              "zh-CN": "宿子腾",
+              "en-US": "Su Ziteng",
+              "fallback": "宿子腾"
+            }
           },
           {
-            "name": "董家豪"
+            "name": {
+              "zh-CN": "董家豪",
+              "en-US": "Dong Jiahao",
+              "fallback": "董家豪"
+            }
           },
           {
-            "name": "詹靖杰"
+            "name": {
+              "zh-CN": "詹靖杰",
+              "en-US": "Zhan Jingjie",
+              "fallback": "詹靖杰"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔学峰",
+              "en-US": "Cui Xuefeng",
+              "fallback": "崔学峰"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -7222,17 +7874,41 @@
     {
       "user": {
         "id": "57",
-        "name": "内鬼猫猫头",
+        "name": {
+          "zh-CN": "内鬼猫猫头",
+          "en-US": "nekoneko.h",
+          "fallback": "内鬼猫猫头"
+        },
         "organization": "南京邮电大学",
         "teamMembers": [
           {
-            "name": "文超航"
+            "name": {
+              "zh-CN": "文超航",
+              "en-US": "Wen Chaohang",
+              "fallback": "文超航"
+            }
           },
           {
-            "name": "冯一帆"
+            "name": {
+              "zh-CN": "冯一帆",
+              "en-US": "Feng Yifan",
+              "fallback": "冯一帆"
+            }
           },
           {
-            "name": "张禹健"
+            "name": {
+              "zh-CN": "张禹健",
+              "en-US": "Zhang Yujian",
+              "fallback": "张禹健"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈志",
+              "en-US": "Chen Zhi",
+              "fallback": "陈志"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -7461,17 +8137,41 @@
     {
       "user": {
         "id": "7",
-        "name": "Are you ok",
+        "name": {
+          "zh-CN": "Are you ok",
+          "en-US": "Are you ok",
+          "fallback": "Are you ok"
+        },
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "王泓翔"
+            "name": {
+              "zh-CN": "王泓翔",
+              "en-US": "Wang Hongxiang",
+              "fallback": "王泓翔"
+            }
           },
           {
-            "name": "杨佳宇轩"
+            "name": {
+              "zh-CN": "杨佳宇轩",
+              "en-US": "Yang Jiayuxuan",
+              "fallback": "杨佳宇轩"
+            }
           },
           {
-            "name": "谭喆文"
+            "name": {
+              "zh-CN": "谭喆文",
+              "en-US": "Tan Zhewen",
+              "fallback": "谭喆文"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋友",
+              "en-US": "Song You",
+              "fallback": "宋友"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -7669,17 +8369,41 @@
     {
       "user": {
         "id": "9",
-        "name": "驹草盛开的万年积雪",
+        "name": {
+          "zh-CN": "驹草盛开的万年积雪",
+          "en-US": "The Perpetual Snow of Komakusa Blossoms",
+          "fallback": "驹草盛开的万年积雪"
+        },
         "organization": "山东大学",
         "teamMembers": [
           {
-            "name": "燕学烨"
+            "name": {
+              "zh-CN": "燕学烨",
+              "en-US": "Yan Xueye",
+              "fallback": "燕学烨"
+            }
           },
           {
-            "name": "陈子载"
+            "name": {
+              "zh-CN": "陈子载",
+              "en-US": "Chen Zizai",
+              "fallback": "陈子载"
+            }
           },
           {
-            "name": "俞程"
+            "name": {
+              "zh-CN": "俞程",
+              "en-US": "Yu Cheng",
+              "fallback": "俞程"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鹿旭东",
+              "en-US": "Lu Xudong",
+              "fallback": "鹿旭东"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -7887,17 +8611,41 @@
     {
       "user": {
         "id": "61",
-        "name": "我的队友失踪了",
+        "name": {
+          "zh-CN": "我的队友失踪了",
+          "en-US": "My missing member",
+          "fallback": "我的队友失踪了"
+        },
         "organization": "西安交通大学",
         "teamMembers": [
           {
-            "name": "周品良"
+            "name": {
+              "zh-CN": "周品良",
+              "en-US": "Zhou Pinliang",
+              "fallback": "周品良"
+            }
           },
           {
-            "name": "王禹皓"
+            "name": {
+              "zh-CN": "王禹皓",
+              "en-US": "Wang Yuhao",
+              "fallback": "王禹皓"
+            }
           },
           {
-            "name": "石皓文"
+            "name": {
+              "zh-CN": "石皓文",
+              "en-US": "Shi Haowen",
+              "fallback": "石皓文"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "en-US": "Wang Longxiang",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -8112,17 +8860,41 @@
     {
       "user": {
         "id": "40",
-        "name": "扫雷爱好者",
+        "name": {
+          "zh-CN": "扫雷爱好者",
+          "en-US": "Minesweeper",
+          "fallback": "扫雷爱好者"
+        },
         "organization": "浙大城市学院",
         "teamMembers": [
           {
-            "name": "沈墨昕"
+            "name": {
+              "zh-CN": "沈墨昕",
+              "en-US": "Shen Moxin",
+              "fallback": "沈墨昕"
+            }
           },
           {
-            "name": "陈至之"
+            "name": {
+              "zh-CN": "陈至之",
+              "en-US": "Chen Zhizhi",
+              "fallback": "陈至之"
+            }
           },
           {
-            "name": "褚锦威"
+            "name": {
+              "zh-CN": "褚锦威",
+              "en-US": "Chu Jinwei",
+              "fallback": "褚锦威"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柯海丰",
+              "en-US": "Ke Haifeng",
+              "fallback": "柯海丰"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -8243,17 +9015,41 @@
     {
       "user": {
         "id": "35",
-        "name": "久世浮倾",
+        "name": {
+          "zh-CN": "久世浮倾",
+          "en-US": "Eons Adrift",
+          "fallback": "久世浮倾"
+        },
         "organization": "吉林大学",
         "teamMembers": [
           {
-            "name": "孔泉智"
+            "name": {
+              "zh-CN": "孔泉智",
+              "en-US": "Kong Quanzhi",
+              "fallback": "孔泉智"
+            }
           },
           {
-            "name": "邱天"
+            "name": {
+              "zh-CN": "邱天",
+              "en-US": "Qiu Tian",
+              "fallback": "邱天"
+            }
           },
           {
-            "name": "赵星宇"
+            "name": {
+              "zh-CN": "赵星宇",
+              "en-US": "Zhao Xingyu",
+              "fallback": "赵星宇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘淼",
+              "en-US": "Liu Miao",
+              "fallback": "刘淼"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -8464,17 +9260,41 @@
     {
       "user": {
         "id": "18",
-        "name": "sg得了MVP，书包是躺赢狗",
+        "name": {
+          "zh-CN": "sg得了MVP，书包是躺赢狗",
+          "en-US": "Sg get MVP, Shubao is town in go",
+          "fallback": "sg得了MVP，书包是躺赢狗"
+        },
         "organization": "武汉大学",
         "teamMembers": [
           {
-            "name": "熊师飏"
+            "name": {
+              "zh-CN": "熊师飏",
+              "en-US": "Xiong Shiyang",
+              "fallback": "熊师飏"
+            }
           },
           {
-            "name": "于丰林"
+            "name": {
+              "zh-CN": "于丰林",
+              "en-US": "Yu Fenglin",
+              "fallback": "于丰林"
+            }
           },
           {
-            "name": "李澍"
+            "name": {
+              "zh-CN": "李澍",
+              "en-US": "Li Shu",
+              "fallback": "李澍"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "董文永",
+              "en-US": "Dong Wenyong",
+              "fallback": "董文永"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -8647,17 +9467,41 @@
     {
       "user": {
         "id": "12",
-        "name": "Synthesis.",
+        "name": {
+          "zh-CN": "Synthesis.",
+          "en-US": "Synthesis.",
+          "fallback": "Synthesis."
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "吴显熠"
+            "name": {
+              "zh-CN": "吴显熠",
+              "en-US": "Wu Xianyi",
+              "fallback": "吴显熠"
+            }
           },
           {
-            "name": "詹笙平"
+            "name": {
+              "zh-CN": "詹笙平",
+              "en-US": "Zhan Shengping",
+              "fallback": "詹笙平"
+            }
           },
           {
-            "name": "李天阳"
+            "name": {
+              "zh-CN": "李天阳",
+              "en-US": "Li Tianyang",
+              "fallback": "李天阳"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -8858,17 +9702,41 @@
     {
       "user": {
         "id": "59",
-        "name": "木叶三忍",
+        "name": {
+          "zh-CN": "木叶三忍",
+          "en-US": "Threefold theory",
+          "fallback": "木叶三忍"
+        },
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "王煜皓"
+            "name": {
+              "zh-CN": "王煜皓",
+              "en-US": "Wang Yuhao",
+              "fallback": "王煜皓"
+            }
           },
           {
-            "name": "陈家辉"
+            "name": {
+              "zh-CN": "陈家辉",
+              "en-US": "Chen Jiahui",
+              "fallback": "陈家辉"
+            }
           },
           {
-            "name": "邵子鸣"
+            "name": {
+              "zh-CN": "邵子鸣",
+              "en-US": "Shao Ziming",
+              "fallback": "邵子鸣"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林永钢",
+              "en-US": "Lin Yonggang",
+              "fallback": "林永钢"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -9265,17 +10133,41 @@
     {
       "user": {
         "id": "34",
-        "name": "长歌",
+        "name": {
+          "zh-CN": "长歌",
+          "en-US": "chang ge",
+          "fallback": "长歌"
+        },
         "organization": "华中科技大学",
         "teamMembers": [
           {
-            "name": "潘喆"
+            "name": {
+              "zh-CN": "潘喆",
+              "en-US": "Pan Zhe",
+              "fallback": "潘喆"
+            }
           },
           {
-            "name": "向恩泽"
+            "name": {
+              "zh-CN": "向恩泽",
+              "en-US": "Xiang Enze",
+              "fallback": "向恩泽"
+            }
           },
           {
-            "name": "冯元宁"
+            "name": {
+              "zh-CN": "冯元宁",
+              "en-US": "Feng Yuanning",
+              "fallback": "冯元宁"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何琨",
+              "en-US": "He Kun",
+              "fallback": "何琨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -9465,17 +10357,41 @@
     {
       "user": {
         "id": "2",
-        "name": "三个绿名",
+        "name": {
+          "zh-CN": "三个绿名",
+          "en-US": "Pupils",
+          "fallback": "三个绿名"
+        },
         "organization": "中国石油大学（北京）克拉玛依校区",
         "teamMembers": [
           {
-            "name": "邬圣锋"
+            "name": {
+              "zh-CN": "邬圣锋",
+              "en-US": "Wu Shengfeng",
+              "fallback": "邬圣锋"
+            }
           },
           {
-            "name": "蔡昊烨"
+            "name": {
+              "zh-CN": "蔡昊烨",
+              "en-US": "Cai Haoye",
+              "fallback": "蔡昊烨"
+            }
           },
           {
-            "name": "刘佳一"
+            "name": {
+              "zh-CN": "刘佳一",
+              "en-US": "Liu Jiayi",
+              "fallback": "刘佳一"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡鸿铭",
+              "en-US": "Hu Hongming",
+              "fallback": "胡鸿铭"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -9641,17 +10557,41 @@
     {
       "user": {
         "id": "93",
-        "name": "于离别之朝束起约定之花",
+        "name": {
+          "zh-CN": "于离别之朝束起约定之花",
+          "en-US": "Morning Flower and Evening Oath",
+          "fallback": "于离别之朝束起约定之花"
+        },
         "organization": "同济大学",
         "teamMembers": [
           {
-            "name": "刘诗奇"
+            "name": {
+              "zh-CN": "刘诗奇",
+              "en-US": "Liu Shiqi",
+              "fallback": "刘诗奇"
+            }
           },
           {
-            "name": "吴晶承"
+            "name": {
+              "zh-CN": "吴晶承",
+              "en-US": "Wu Jingcheng",
+              "fallback": "吴晶承"
+            }
           },
           {
-            "name": "靳嘉成"
+            "name": {
+              "zh-CN": "靳嘉成",
+              "en-US": "Jin Jiacheng",
+              "fallback": "靳嘉成"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶晨",
+              "en-US": "Ye Chen",
+              "fallback": "叶晨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -9820,17 +10760,41 @@
     {
       "user": {
         "id": "21",
-        "name": "力大砖飞队",
+        "name": {
+          "zh-CN": "力大砖飞队",
+          "en-US": "brute force flies bricks",
+          "fallback": "力大砖飞队"
+        },
         "organization": "天津大学",
         "teamMembers": [
           {
-            "name": "丁浩然"
+            "name": {
+              "zh-CN": "丁浩然",
+              "en-US": "Ding Haoran",
+              "fallback": "丁浩然"
+            }
           },
           {
-            "name": "王然驰"
+            "name": {
+              "zh-CN": "王然驰",
+              "en-US": "Wang Ranchi",
+              "fallback": "王然驰"
+            }
           },
           {
-            "name": "韦德敏"
+            "name": {
+              "zh-CN": "韦德敏",
+              "en-US": "Wei Demin",
+              "fallback": "韦德敏"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "喻梅",
+              "en-US": "Yu Mei",
+              "fallback": "喻梅"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -9972,17 +10936,41 @@
     {
       "user": {
         "id": "110",
-        "name": "再演",
+        "name": {
+          "zh-CN": "再演",
+          "en-US": "Pretests Passed (3)",
+          "fallback": "再演"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "朱霁"
+            "name": {
+              "zh-CN": "朱霁",
+              "en-US": "Zhu Ji",
+              "fallback": "朱霁"
+            }
           },
           {
-            "name": "叶阳"
+            "name": {
+              "zh-CN": "叶阳",
+              "en-US": "Ye Yang",
+              "fallback": "叶阳"
+            }
           },
           {
-            "name": "陈旻庚"
+            "name": {
+              "zh-CN": "陈旻庚",
+              "en-US": "Chen Mingeng",
+              "fallback": "陈旻庚"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨丽芳",
+              "en-US": "Yang Lifang",
+              "fallback": "杨丽芳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -10246,17 +11234,41 @@
     {
       "user": {
         "id": "50",
-        "name": "夏兴豪队",
+        "name": {
+          "zh-CN": "夏兴豪队",
+          "en-US": "XXH",
+          "fallback": "夏兴豪队"
+        },
         "organization": "中国地质大学（北京）",
         "teamMembers": [
           {
-            "name": "许兴城"
+            "name": {
+              "zh-CN": "许兴城",
+              "en-US": "Xu Xingcheng",
+              "fallback": "许兴城"
+            }
           },
           {
-            "name": "陈俊豪"
+            "name": {
+              "zh-CN": "陈俊豪",
+              "en-US": "Chen Junhao",
+              "fallback": "陈俊豪"
+            }
           },
           {
-            "name": "夏冬"
+            "name": {
+              "zh-CN": "夏冬",
+              "en-US": "Xia Dong",
+              "fallback": "夏冬"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏军宝",
+              "en-US": "Xia Junbao",
+              "fallback": "夏军宝"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -10415,17 +11427,41 @@
     {
       "user": {
         "id": "78",
-        "name": "梅明子队",
+        "name": {
+          "zh-CN": "梅明子队",
+          "en-US": "no name",
+          "fallback": "梅明子队"
+        },
         "organization": "北方工业大学",
         "teamMembers": [
           {
-            "name": "邵奕涵"
+            "name": {
+              "zh-CN": "邵奕涵",
+              "en-US": "Shao Yihan",
+              "fallback": "邵奕涵"
+            }
           },
           {
-            "name": "王思诚"
+            "name": {
+              "zh-CN": "王思诚",
+              "en-US": "Wang Sicheng",
+              "fallback": "王思诚"
+            }
           },
           {
-            "name": "周易"
+            "name": {
+              "zh-CN": "周易",
+              "en-US": "Zhou Yi",
+              "fallback": "周易"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李源",
+              "en-US": "Li Yuan",
+              "fallback": "李源"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -10661,17 +11697,41 @@
     {
       "user": {
         "id": "25",
-        "name": "原神启动队",
+        "name": {
+          "zh-CN": "原神启动队",
+          "en-US": "genshin impact, start！",
+          "fallback": "原神启动队"
+        },
         "organization": "中国科学院大学",
         "teamMembers": [
           {
-            "name": "朱辰"
+            "name": {
+              "zh-CN": "朱辰",
+              "en-US": "Zhu Chen",
+              "fallback": "朱辰"
+            }
           },
           {
-            "name": "潘宇轩"
+            "name": {
+              "zh-CN": "潘宇轩",
+              "en-US": "Pan Yuxuan",
+              "fallback": "潘宇轩"
+            }
           },
           {
-            "name": "胡格致"
+            "name": {
+              "zh-CN": "胡格致",
+              "en-US": "Hu Gezhi",
+              "fallback": "胡格致"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙晓明",
+              "en-US": "Sun Xiaoming",
+              "fallback": "孙晓明"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -10865,17 +11925,41 @@
     {
       "user": {
         "id": "52",
-        "name": "不许卡log",
+        "name": {
+          "zh-CN": "不许卡log",
+          "en-US": "USTB2025-1",
+          "fallback": "不许卡log"
+        },
         "organization": "北京科技大学",
         "teamMembers": [
           {
-            "name": "潘涵"
+            "name": {
+              "zh-CN": "潘涵",
+              "en-US": "Pan Han",
+              "fallback": "潘涵"
+            }
           },
           {
-            "name": "董瑞洋"
+            "name": {
+              "zh-CN": "董瑞洋",
+              "en-US": "Dong Ruiyang",
+              "fallback": "董瑞洋"
+            }
           },
           {
-            "name": "姜皓凯"
+            "name": {
+              "zh-CN": "姜皓凯",
+              "en-US": "Jiang Haokai",
+              "fallback": "姜皓凯"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘志杰",
+              "en-US": "Liu Zhijie",
+              "fallback": "刘志杰"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -11167,17 +12251,41 @@
     {
       "user": {
         "id": "11",
-        "name": "我太想进步了",
+        "name": {
+          "zh-CN": "我太想进步了",
+          "en-US": "we want to win",
+          "fallback": "我太想进步了"
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "蔡佩霖"
+            "name": {
+              "zh-CN": "蔡佩霖",
+              "en-US": "Cai Peilin",
+              "fallback": "蔡佩霖"
+            }
           },
           {
-            "name": "黄志阳"
+            "name": {
+              "zh-CN": "黄志阳",
+              "en-US": "Huang Zhiyang",
+              "fallback": "黄志阳"
+            }
           },
           {
-            "name": "徐嘉晨"
+            "name": {
+              "zh-CN": "徐嘉晨",
+              "en-US": "Xu Jiachen",
+              "fallback": "徐嘉晨"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -11413,17 +12521,41 @@
     {
       "user": {
         "id": "42",
-        "name": "蔡光",
+        "name": {
+          "zh-CN": "蔡光",
+          "en-US": "Cai_Guang",
+          "fallback": "蔡光"
+        },
         "organization": "上海理工大学",
         "teamMembers": [
           {
-            "name": "吴佳霖"
+            "name": {
+              "zh-CN": "吴佳霖",
+              "en-US": "Wu Jialin",
+              "fallback": "吴佳霖"
+            }
           },
           {
-            "name": "董柯演"
+            "name": {
+              "zh-CN": "董柯演",
+              "en-US": "Dong Keyan",
+              "fallback": "董柯演"
+            }
           },
           {
-            "name": "张皓宇"
+            "name": {
+              "zh-CN": "张皓宇",
+              "en-US": "Zhang Haoyu",
+              "fallback": "张皓宇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周春樵",
+              "en-US": "Zhou Chunqiao",
+              "fallback": "周春樵"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -11669,17 +12801,41 @@
     {
       "user": {
         "id": "22",
-        "name": "我都行",
+        "name": {
+          "zh-CN": "我都行",
+          "en-US": "I‘m OK",
+          "fallback": "我都行"
+        },
         "organization": "西南交通大学",
         "teamMembers": [
           {
-            "name": "赵一冰"
+            "name": {
+              "zh-CN": "赵一冰",
+              "en-US": "Zhao Yibing",
+              "fallback": "赵一冰"
+            }
           },
           {
-            "name": "郭欣森"
+            "name": {
+              "zh-CN": "郭欣森",
+              "en-US": "Guo Xinsen",
+              "fallback": "郭欣森"
+            }
           },
           {
-            "name": "苏永康"
+            "name": {
+              "zh-CN": "苏永康",
+              "en-US": "Su Yongkang",
+              "fallback": "苏永康"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "喻琇瑛",
+              "en-US": "Yu Xiuying",
+              "fallback": "喻琇瑛"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -11894,17 +13050,41 @@
     {
       "user": {
         "id": "102",
-        "name": "The Last",
+        "name": {
+          "zh-CN": "The Last",
+          "en-US": "The Last",
+          "fallback": "The Last"
+        },
         "organization": "中国矿业大学（北京）",
         "teamMembers": [
           {
-            "name": "罗心伟"
+            "name": {
+              "zh-CN": "罗心伟",
+              "en-US": "Luo Xinwei",
+              "fallback": "罗心伟"
+            }
           },
           {
-            "name": "郭天茁"
+            "name": {
+              "zh-CN": "郭天茁",
+              "en-US": "Guo Tianzhuo",
+              "fallback": "郭天茁"
+            }
           },
           {
-            "name": "史坪巧"
+            "name": {
+              "zh-CN": "史坪巧",
+              "en-US": "Shi Pingqiao",
+              "fallback": "史坪巧"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周法国",
+              "en-US": "Zhou Faguo",
+              "fallback": "周法国"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -12032,17 +13212,41 @@
     {
       "user": {
         "id": "51",
-        "name": "绝对卡常了",
+        "name": {
+          "zh-CN": "绝对卡常了",
+          "en-US": "USTB2025-2",
+          "fallback": "绝对卡常了"
+        },
         "organization": "北京科技大学",
         "teamMembers": [
           {
-            "name": "张顺"
+            "name": {
+              "zh-CN": "张顺",
+              "en-US": "Zhang Shun",
+              "fallback": "张顺"
+            }
           },
           {
-            "name": "国林泉"
+            "name": {
+              "zh-CN": "国林泉",
+              "en-US": "Guo Linquan",
+              "fallback": "国林泉"
+            }
           },
           {
-            "name": "彭心雨"
+            "name": {
+              "zh-CN": "彭心雨",
+              "en-US": "Peng Xinyu",
+              "fallback": "彭心雨"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘志杰",
+              "en-US": "Liu Zhijie",
+              "fallback": "刘志杰"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -12208,17 +13412,41 @@
     {
       "user": {
         "id": "19",
-        "name": "BoysACMerCry!!!",
+        "name": {
+          "zh-CN": "BoysACMerCry!!!",
+          "en-US": "BoysACMerCry!!!",
+          "fallback": "BoysACMerCry!!!"
+        },
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "黄炳睿"
+            "name": {
+              "zh-CN": "黄炳睿",
+              "en-US": "Huang Bingrui",
+              "fallback": "黄炳睿"
+            }
           },
           {
-            "name": "周易非"
+            "name": {
+              "zh-CN": "周易非",
+              "en-US": "Zhou Yifei",
+              "fallback": "周易非"
+            }
           },
           {
-            "name": "唐海原"
+            "name": {
+              "zh-CN": "唐海原",
+              "en-US": "Tang Haiyuan",
+              "fallback": "唐海原"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王睿",
+              "en-US": "Wang Rui",
+              "fallback": "王睿"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -12353,17 +13581,41 @@
     {
       "user": {
         "id": "37",
-        "name": "五条牢师",
+        "name": {
+          "zh-CN": "五条牢师",
+          "en-US": "Gojo Teacher",
+          "fallback": "五条牢师"
+        },
         "organization": "香港大学",
         "teamMembers": [
           {
-            "name": "李屿霏"
+            "name": {
+              "zh-CN": "李屿霏",
+              "en-US": "Li Yufei",
+              "fallback": "李屿霏"
+            }
           },
           {
-            "name": "张钰晨"
+            "name": {
+              "zh-CN": "张钰晨",
+              "en-US": "Zhang Yuchen",
+              "fallback": "张钰晨"
+            }
           },
           {
-            "name": "罗靖宇"
+            "name": {
+              "zh-CN": "罗靖宇",
+              "en-US": "Luo Jingyu",
+              "fallback": "罗靖宇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邝启鹏",
+              "en-US": "Kuang Qipeng",
+              "fallback": "邝启鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -12553,17 +13805,41 @@
     {
       "user": {
         "id": "94",
-        "name": "做的都队",
+        "name": {
+          "zh-CN": "做的都队",
+          "en-US": "AK team",
+          "fallback": "做的都队"
+        },
         "organization": "中国人民大学",
         "teamMembers": [
           {
-            "name": "童奕涵"
+            "name": {
+              "zh-CN": "童奕涵",
+              "en-US": "Tong Yihan",
+              "fallback": "童奕涵"
+            }
           },
           {
-            "name": "孙安江"
+            "name": {
+              "zh-CN": "孙安江",
+              "en-US": "Sun Anjiang",
+              "fallback": "孙安江"
+            }
           },
           {
-            "name": "胡博玮"
+            "name": {
+              "zh-CN": "胡博玮",
+              "en-US": "Hu Bowei",
+              "fallback": "胡博玮"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙辉",
+              "en-US": "Sun Hui",
+              "fallback": "孙辉"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -12827,17 +14103,41 @@
     {
       "user": {
         "id": "31",
-        "name": "烈焰节拍",
+        "name": {
+          "zh-CN": "烈焰节拍",
+          "en-US": "Flame beat",
+          "fallback": "烈焰节拍"
+        },
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "张昱东"
+            "name": {
+              "zh-CN": "张昱东",
+              "en-US": "Zhang Yudong",
+              "fallback": "张昱东"
+            }
           },
           {
-            "name": "张裕博"
+            "name": {
+              "zh-CN": "张裕博",
+              "en-US": "Zhang Yubo",
+              "fallback": "张裕博"
+            }
           },
           {
-            "name": "邓逸飞"
+            "name": {
+              "zh-CN": "邓逸飞",
+              "en-US": "Deng Yifei",
+              "fallback": "邓逸飞"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王和兴",
+              "en-US": "Wang Hexing",
+              "fallback": "王和兴"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -13104,17 +14404,41 @@
     {
       "user": {
         "id": "112",
-        "name": "啸穹",
+        "name": {
+          "zh-CN": "啸穹",
+          "en-US": "alpha wolves",
+          "fallback": "啸穹"
+        },
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "陆祖亿"
+            "name": {
+              "zh-CN": "陆祖亿",
+              "en-US": "Lu Zuyi",
+              "fallback": "陆祖亿"
+            }
           },
           {
-            "name": "韩东时"
+            "name": {
+              "zh-CN": "韩东时",
+              "en-US": "Han Dongshi",
+              "fallback": "韩东时"
+            }
           },
           {
-            "name": "丁余健"
+            "name": {
+              "zh-CN": "丁余健",
+              "en-US": "Ding Yujian",
+              "fallback": "丁余健"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏飞",
+              "en-US": "Xu Pengfei",
+              "fallback": "徐鹏飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -13252,17 +14576,41 @@
     {
       "user": {
         "id": "5",
-        "name": "二分最优解",
+        "name": {
+          "zh-CN": "二分最优解",
+          "en-US": "Binary is the best",
+          "fallback": "二分最优解"
+        },
         "organization": "郑州轻工业大学",
         "teamMembers": [
           {
-            "name": "栗闫恒"
+            "name": {
+              "zh-CN": "栗闫恒",
+              "en-US": "Li Yanheng",
+              "fallback": "栗闫恒"
+            }
           },
           {
-            "name": "夏高祥"
+            "name": {
+              "zh-CN": "夏高祥",
+              "en-US": "Xia Gaoxiang",
+              "fallback": "夏高祥"
+            }
           },
           {
-            "name": "黎志鸿"
+            "name": {
+              "zh-CN": "黎志鸿",
+              "en-US": "Li Zhihong",
+              "fallback": "黎志鸿"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李晔",
+              "en-US": "Li Ye",
+              "fallback": "李晔"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -13404,17 +14752,41 @@
     {
       "user": {
         "id": "100",
-        "name": "Fortune",
+        "name": {
+          "zh-CN": "Fortune",
+          "en-US": "Fortune",
+          "fallback": "Fortune"
+        },
         "organization": "中国矿业大学（北京）",
         "teamMembers": [
           {
-            "name": "梁凯"
+            "name": {
+              "zh-CN": "梁凯",
+              "en-US": "Liang Kai",
+              "fallback": "梁凯"
+            }
           },
           {
-            "name": "崔文水"
+            "name": {
+              "zh-CN": "崔文水",
+              "en-US": "Cui Wenshui",
+              "fallback": "崔文水"
+            }
           },
           {
-            "name": "杜若琳"
+            "name": {
+              "zh-CN": "杜若琳",
+              "en-US": "Du Ruolin",
+              "fallback": "杜若琳"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周法国",
+              "en-US": "Zhou Faguo",
+              "fallback": "周法国"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -13604,17 +14976,41 @@
     {
       "user": {
         "id": "83",
-        "name": "今宵露宿何妨",
+        "name": {
+          "zh-CN": "今宵露宿何妨",
+          "en-US": "Sleep Outside",
+          "fallback": "今宵露宿何妨"
+        },
         "organization": "北京交通大学",
         "teamMembers": [
           {
-            "name": "王嘉胜"
+            "name": {
+              "zh-CN": "王嘉胜",
+              "en-US": "Wang Jiasheng",
+              "fallback": "王嘉胜"
+            }
           },
           {
-            "name": "刘泽晖"
+            "name": {
+              "zh-CN": "刘泽晖",
+              "en-US": "Liu Zehui",
+              "fallback": "刘泽晖"
+            }
           },
           {
-            "name": "方瑞年"
+            "name": {
+              "zh-CN": "方瑞年",
+              "en-US": "Fang Ruinian",
+              "fallback": "方瑞年"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许华婷",
+              "en-US": "Xu Huating",
+              "fallback": "许华婷"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -13801,17 +15197,41 @@
     {
       "user": {
         "id": "30",
-        "name": "DML",
+        "name": {
+          "zh-CN": "DML",
+          "en-US": "DML",
+          "fallback": "DML"
+        },
         "organization": "南京航空航天大学",
         "teamMembers": [
           {
-            "name": "任衍硕"
+            "name": {
+              "zh-CN": "任衍硕",
+              "en-US": "Ren Yanshuo",
+              "fallback": "任衍硕"
+            }
           },
           {
-            "name": "吕海亮"
+            "name": {
+              "zh-CN": "吕海亮",
+              "en-US": "Lv Hailiang",
+              "fallback": "吕海亮"
+            }
           },
           {
-            "name": "邵嘉奇"
+            "name": {
+              "zh-CN": "邵嘉奇",
+              "en-US": "Shao Jiaqi",
+              "fallback": "邵嘉奇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邹春然",
+              "en-US": "Zou Chunran",
+              "fallback": "邹春然"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14033,17 +15453,41 @@
     {
       "user": {
         "id": "43",
-        "name": "你怎么知道我六级考了620分",
+        "name": {
+          "zh-CN": "你怎么知道我六级考了620分",
+          "en-US": "620 in CET-6",
+          "fallback": "你怎么知道我六级考了620分"
+        },
         "organization": "北京林业大学",
         "teamMembers": [
           {
-            "name": "陈嘉轩"
+            "name": {
+              "zh-CN": "陈嘉轩",
+              "en-US": "Chen Jiaxuan",
+              "fallback": "陈嘉轩"
+            }
           },
           {
-            "name": "戴正宇"
+            "name": {
+              "zh-CN": "戴正宇",
+              "en-US": "Dai Zhengyu",
+              "fallback": "戴正宇"
+            }
           },
           {
-            "name": "李振梁"
+            "name": {
+              "zh-CN": "李振梁",
+              "en-US": "Li Zhenliang",
+              "fallback": "李振梁"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐艳艳",
+              "en-US": "Xu Yanyan",
+              "fallback": "徐艳艳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14265,17 +15709,41 @@
     {
       "user": {
         "id": "70",
-        "name": "我的ACM铁牌物语果然有问题",
+        "name": {
+          "zh-CN": "我的ACM铁牌物语果然有问题",
+          "en-US": "My ACM Iron Medal Tale Has Issues",
+          "fallback": "我的ACM铁牌物语果然有问题"
+        },
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "彭天祺"
+            "name": {
+              "zh-CN": "彭天祺",
+              "en-US": "Peng Tianqi",
+              "fallback": "彭天祺"
+            }
           },
           {
-            "name": "陈昊然"
+            "name": {
+              "zh-CN": "陈昊然",
+              "en-US": "Chen Haoran",
+              "fallback": "陈昊然"
+            }
           },
           {
-            "name": "周好"
+            "name": {
+              "zh-CN": "周好",
+              "en-US": "Zhou Hao",
+              "fallback": "周好"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘勇",
+              "en-US": "Liu Yong",
+              "fallback": "刘勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14462,17 +15930,41 @@
     {
       "user": {
         "id": "75",
-        "name": "沙威玛传奇",
+        "name": {
+          "zh-CN": "沙威玛传奇",
+          "en-US": "Shawarma Legend",
+          "fallback": "沙威玛传奇"
+        },
         "organization": "中国农业大学",
         "teamMembers": [
           {
-            "name": "毛鹏浩"
+            "name": {
+              "zh-CN": "毛鹏浩",
+              "en-US": "Mao Penghao",
+              "fallback": "毛鹏浩"
+            }
           },
           {
-            "name": "李晗"
+            "name": {
+              "zh-CN": "李晗",
+              "en-US": "Li Han",
+              "fallback": "李晗"
+            }
           },
           {
-            "name": "杨维昊"
+            "name": {
+              "zh-CN": "杨维昊",
+              "en-US": "Yang Weihao",
+              "fallback": "杨维昊"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马钦",
+              "en-US": "Ma Qin",
+              "fallback": "马钦"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14649,17 +16141,41 @@
     {
       "user": {
         "id": "79",
-        "name": "智算先锋队",
+        "name": {
+          "zh-CN": "智算先锋队",
+          "en-US": "Pioneer of Algorithm",
+          "fallback": "智算先锋队"
+        },
         "organization": "中国人民大学",
         "teamMembers": [
           {
-            "name": "卢霄羽"
+            "name": {
+              "zh-CN": "卢霄羽",
+              "en-US": "Lu Xiaoyu",
+              "fallback": "卢霄羽"
+            }
           },
           {
-            "name": "蔡松洋"
+            "name": {
+              "zh-CN": "蔡松洋",
+              "en-US": "Cai Songyang",
+              "fallback": "蔡松洋"
+            }
           },
           {
-            "name": "陈嘉聪"
+            "name": {
+              "zh-CN": "陈嘉聪",
+              "en-US": "Chen Jiacong",
+              "fallback": "陈嘉聪"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙辉",
+              "en-US": "Sun Hui",
+              "fallback": "孙辉"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14801,17 +16317,41 @@
     {
       "user": {
         "id": "92",
-        "name": "新运行错误",
+        "name": {
+          "zh-CN": "新运行错误",
+          "en-US": "New Runtime Error",
+          "fallback": "新运行错误"
+        },
         "organization": "东北师范大学",
         "teamMembers": [
           {
-            "name": "曹勇麟"
+            "name": {
+              "zh-CN": "曹勇麟",
+              "en-US": "Cao Yonglin",
+              "fallback": "曹勇麟"
+            }
           },
           {
-            "name": "齐昊坤"
+            "name": {
+              "zh-CN": "齐昊坤",
+              "en-US": "Qi Haokun",
+              "fallback": "齐昊坤"
+            }
           },
           {
-            "name": "周文琦"
+            "name": {
+              "zh-CN": "周文琦",
+              "en-US": "Zhou Wenqi",
+              "fallback": "周文琦"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李宏博",
+              "en-US": "Li Hongbo",
+              "fallback": "李宏博"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -14960,17 +16500,41 @@
     {
       "user": {
         "id": "14",
-        "name": "稻花香里说丰年",
+        "name": {
+          "zh-CN": "稻花香里说丰年",
+          "en-US": "wawawawawa",
+          "fallback": "稻花香里说丰年"
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "苏泽勤"
+            "name": {
+              "zh-CN": "苏泽勤",
+              "en-US": "Su Zeqin",
+              "fallback": "苏泽勤"
+            }
           },
           {
-            "name": "高允泽"
+            "name": {
+              "zh-CN": "高允泽",
+              "en-US": "Gao Yunze",
+              "fallback": "高允泽"
+            }
           },
           {
-            "name": "施岩焜"
+            "name": {
+              "zh-CN": "施岩焜",
+              "en-US": "Shi Yankun",
+              "fallback": "施岩焜"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15150,17 +16714,41 @@
     {
       "user": {
         "id": "87",
-        "name": "return inv(wa);",
+        "name": {
+          "zh-CN": "return inv(wa);",
+          "en-US": "return inv(wa);",
+          "fallback": "return inv(wa);"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "范金旭"
+            "name": {
+              "zh-CN": "范金旭",
+              "en-US": "Fan Jinxu",
+              "fallback": "范金旭"
+            }
           },
           {
-            "name": "刘钰"
+            "name": {
+              "zh-CN": "刘钰",
+              "en-US": "Liu Yu",
+              "fallback": "刘钰"
+            }
           },
           {
-            "name": "杜可"
+            "name": {
+              "zh-CN": "杜可",
+              "en-US": "Du Ke",
+              "fallback": "杜可"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨丽芳",
+              "en-US": "Yang Lifang",
+              "fallback": "杨丽芳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15330,17 +16918,41 @@
     {
       "user": {
         "id": "89",
-        "name": "铁牌也是牌",
+        "name": {
+          "zh-CN": "铁牌也是牌",
+          "en-US": "iron plz",
+          "fallback": "铁牌也是牌"
+        },
         "organization": "北京工业大学",
         "teamMembers": [
           {
-            "name": "李俊良"
+            "name": {
+              "zh-CN": "李俊良",
+              "en-US": "Li Junliang",
+              "fallback": "李俊良"
+            }
           },
           {
-            "name": "范韶博"
+            "name": {
+              "zh-CN": "范韶博",
+              "en-US": "Fan Shaobo",
+              "fallback": "范韶博"
+            }
           },
           {
-            "name": "张乐天"
+            "name": {
+              "zh-CN": "张乐天",
+              "en-US": "Zhang Letian",
+              "fallback": "张乐天"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高红雨",
+              "en-US": "Gao Hongyu",
+              "fallback": "高红雨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15527,17 +17139,41 @@
     {
       "user": {
         "id": "58",
-        "name": "树状数组队",
+        "name": {
+          "zh-CN": "树状数组队",
+          "en-US": "BIT",
+          "fallback": "树状数组队"
+        },
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "高天翔"
+            "name": {
+              "zh-CN": "高天翔",
+              "en-US": "Gao Tianxiang",
+              "fallback": "高天翔"
+            }
           },
           {
-            "name": "谭笑"
+            "name": {
+              "zh-CN": "谭笑",
+              "en-US": "Tan Xiao",
+              "fallback": "谭笑"
+            }
           },
           {
-            "name": "张振宇"
+            "name": {
+              "zh-CN": "张振宇",
+              "en-US": "Zhang Zhenyu",
+              "fallback": "张振宇"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "史继筠",
+              "en-US": "Shi Jiyun",
+              "fallback": "史继筠"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15759,17 +17395,41 @@
     {
       "user": {
         "id": "91",
-        "name": "双翼翱翔",
+        "name": {
+          "zh-CN": "双翼翱翔",
+          "en-US": "biwing",
+          "fallback": "双翼翱翔"
+        },
         "organization": "北京工业大学",
         "teamMembers": [
           {
-            "name": "刘航奇"
+            "name": {
+              "zh-CN": "刘航奇",
+              "en-US": "Liu Hangqi",
+              "fallback": "刘航奇"
+            }
           },
           {
-            "name": "江云天"
+            "name": {
+              "zh-CN": "江云天",
+              "en-US": "Jiang Yuntian",
+              "fallback": "江云天"
+            }
           },
           {
-            "name": "王赫"
+            "name": {
+              "zh-CN": "王赫",
+              "en-US": "Wang He",
+              "fallback": "王赫"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高红雨",
+              "en-US": "Gao Hongyu",
+              "fallback": "高红雨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15956,17 +17616,41 @@
     {
       "user": {
         "id": "13",
-        "name": "来吧走起",
+        "name": {
+          "zh-CN": "来吧走起",
+          "en-US": "Here we go!",
+          "fallback": "来吧走起"
+        },
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "王昰妍"
+            "name": {
+              "zh-CN": "王昰妍",
+              "en-US": "Wang Shiyan",
+              "fallback": "王昰妍"
+            }
           },
           {
-            "name": "冯仁宇"
+            "name": {
+              "zh-CN": "冯仁宇",
+              "en-US": "Feng Renyu",
+              "fallback": "冯仁宇"
+            }
           },
           {
-            "name": "蔡禹煊"
+            "name": {
+              "zh-CN": "蔡禹煊",
+              "en-US": "Cai Yuxuan",
+              "fallback": "蔡禹煊"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏",
+              "en-US": "Xu Peng",
+              "fallback": "徐鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -16370,17 +18054,41 @@
     {
       "user": {
         "id": "111",
-        "name": "风滚金轮草",
+        "name": {
+          "zh-CN": "风滚金轮草",
+          "en-US": "Wind rolling goldenrod",
+          "fallback": "风滚金轮草"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "蔡奕麟"
+            "name": {
+              "zh-CN": "蔡奕麟",
+              "en-US": "Cai Yilin",
+              "fallback": "蔡奕麟"
+            }
           },
           {
-            "name": "龙岑华"
+            "name": {
+              "zh-CN": "龙岑华",
+              "en-US": "Long Cenhua",
+              "fallback": "龙岑华"
+            }
           },
           {
-            "name": "谢嘉彤"
+            "name": {
+              "zh-CN": "谢嘉彤",
+              "en-US": "Xie Jiatong",
+              "fallback": "谢嘉彤"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄玮",
+              "en-US": "Huang Wei",
+              "fallback": "黄玮"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -16557,17 +18265,41 @@
     {
       "user": {
         "id": "46",
-        "name": "上林花似锦",
+        "name": {
+          "zh-CN": "上林花似锦",
+          "en-US": "UpForest::Flower.isEqual(Au)",
+          "fallback": "上林花似锦"
+        },
         "organization": "北京林业大学",
         "teamMembers": [
           {
-            "name": "张锦秀"
+            "name": {
+              "zh-CN": "张锦秀",
+              "en-US": "Zhang Jinxiu",
+              "fallback": "张锦秀"
+            }
           },
           {
-            "name": "付耀刚"
+            "name": {
+              "zh-CN": "付耀刚",
+              "en-US": "Fu Yaogang",
+              "fallback": "付耀刚"
+            }
           },
           {
-            "name": "余行健"
+            "name": {
+              "zh-CN": "余行健",
+              "en-US": "Yu Xingjian",
+              "fallback": "余行健"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐艳艳",
+              "en-US": "Xu Yanyan",
+              "fallback": "徐艳艳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -16890,17 +18622,41 @@
     {
       "user": {
         "id": "85",
-        "name": "Reach for the Summit",
+        "name": {
+          "zh-CN": "Reach for the Summit",
+          "en-US": "Reach for the Summit",
+          "fallback": "Reach for the Summit"
+        },
         "organization": "香港中文大学（深圳）",
         "teamMembers": [
           {
-            "name": "周信言"
+            "name": {
+              "zh-CN": "周信言",
+              "en-US": "Zhou Xinyan",
+              "fallback": "周信言"
+            }
           },
           {
-            "name": "TejasukmanaAdam"
+            "name": {
+              "zh-CN": "TejasukmanaAdam",
+              "en-US": "TejasukmanaAdam",
+              "fallback": "TejasukmanaAdam"
+            }
           },
           {
-            "name": "叶嘉泓"
+            "name": {
+              "zh-CN": "叶嘉泓",
+              "en-US": "Ye Jiahong",
+              "fallback": "叶嘉泓"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马晨昊",
+              "en-US": "Ma Chenhao",
+              "fallback": "马晨昊"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -17133,17 +18889,41 @@
     {
       "user": {
         "id": "45",
-        "name": "正解人偶",
+        "name": {
+          "zh-CN": "正解人偶",
+          "en-US": "ACmujica",
+          "fallback": "正解人偶"
+        },
         "organization": "北京林业大学",
         "teamMembers": [
           {
-            "name": "张秉鸿"
+            "name": {
+              "zh-CN": "张秉鸿",
+              "en-US": "Zhang Binghong",
+              "fallback": "张秉鸿"
+            }
           },
           {
-            "name": "张森柏"
+            "name": {
+              "zh-CN": "张森柏",
+              "en-US": "Zhang Senbai",
+              "fallback": "张森柏"
+            }
           },
           {
-            "name": "周欣潼"
+            "name": {
+              "zh-CN": "周欣潼",
+              "en-US": "Zhou Xintong",
+              "fallback": "周欣潼"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐艳艳",
+              "en-US": "Xu Yanyan",
+              "fallback": "徐艳艳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -17369,17 +19149,41 @@
     {
       "user": {
         "id": "104",
-        "name": "低语的月亮",
+        "name": {
+          "zh-CN": "低语的月亮",
+          "en-US": "Luna Whisperans",
+          "fallback": "低语的月亮"
+        },
         "organization": "中央民族大学",
         "teamMembers": [
           {
-            "name": "盛楠"
+            "name": {
+              "zh-CN": "盛楠",
+              "en-US": "Sheng Nan",
+              "fallback": "盛楠"
+            }
           },
           {
-            "name": "马雨衡"
+            "name": {
+              "zh-CN": "马雨衡",
+              "en-US": "Ma Yuheng",
+              "fallback": "马雨衡"
+            }
           },
           {
-            "name": "谌恒骏"
+            "name": {
+              "zh-CN": "谌恒骏",
+              "en-US": "Chen Hengjun",
+              "fallback": "谌恒骏"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙娜",
+              "en-US": "Sun Na",
+              "fallback": "孙娜"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -17577,17 +19381,41 @@
     {
       "user": {
         "id": "116",
-        "name": "xx狗",
+        "name": {
+          "zh-CN": "xx狗",
+          "en-US": "xxdog",
+          "fallback": "xx狗"
+        },
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "张明杨"
+            "name": {
+              "zh-CN": "张明杨",
+              "en-US": "Zhang Mingyang",
+              "fallback": "张明杨"
+            }
           },
           {
-            "name": "王思潮"
+            "name": {
+              "zh-CN": "王思潮",
+              "en-US": "Wang Sichao",
+              "fallback": "王思潮"
+            }
           },
           {
-            "name": "罗一粟"
+            "name": {
+              "zh-CN": "罗一粟",
+              "en-US": "Luo Yisu",
+              "fallback": "罗一粟"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏飞",
+              "en-US": "Xu Pengfei",
+              "fallback": "徐鹏飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -17918,17 +19746,41 @@
     {
       "user": {
         "id": "49",
-        "name": "v我50告诉你打铁秘诀",
+        "name": {
+          "zh-CN": "v我50告诉你打铁秘诀",
+          "en-US": "give me 50 please",
+          "fallback": "v我50告诉你打铁秘诀"
+        },
         "organization": "中国地质大学（北京）",
         "teamMembers": [
           {
-            "name": "丁智星"
+            "name": {
+              "zh-CN": "丁智星",
+              "en-US": "Ding Zhixing",
+              "fallback": "丁智星"
+            }
           },
           {
-            "name": "胡葭懿"
+            "name": {
+              "zh-CN": "胡葭懿",
+              "en-US": "Hu Jiayi",
+              "fallback": "胡葭懿"
+            }
           },
           {
-            "name": "杨欣川"
+            "name": {
+              "zh-CN": "杨欣川",
+              "en-US": "Yang Xinchuan",
+              "fallback": "杨欣川"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏军宝",
+              "en-US": "Xia Junbao",
+              "fallback": "夏军宝"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18108,17 +19960,41 @@
     {
       "user": {
         "id": "27",
-        "name": "还没到六点，早安你个头",
+        "name": {
+          "zh-CN": "还没到六点，早安你个头",
+          "en-US": "add uuz to your qq group meow",
+          "fallback": "还没到六点，早安你个头"
+        },
         "organization": "齐鲁工业大学",
         "teamMembers": [
           {
-            "name": "国展源"
+            "name": {
+              "zh-CN": "国展源",
+              "en-US": "Guo Zhanyuan",
+              "fallback": "国展源"
+            }
           },
           {
-            "name": "张宸维"
+            "name": {
+              "zh-CN": "张宸维",
+              "en-US": "Zhang Chenwei",
+              "fallback": "张宸维"
+            }
           },
           {
-            "name": "杨梓睿"
+            "name": {
+              "zh-CN": "杨梓睿",
+              "en-US": "Yang Zirui",
+              "fallback": "杨梓睿"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鹿文鹏",
+              "en-US": "Lu Wenpeng",
+              "fallback": "鹿文鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18249,17 +20125,41 @@
     {
       "user": {
         "id": "72",
-        "name": "qsmcgogo粉丝团",
+        "name": {
+          "zh-CN": "qsmcgogo粉丝团",
+          "en-US": "qsmcgogo_fan",
+          "fallback": "qsmcgogo粉丝团"
+        },
         "organization": "北京信息科技大学",
         "teamMembers": [
           {
-            "name": "朱默涵"
+            "name": {
+              "zh-CN": "朱默涵",
+              "en-US": "Zhu Mohan",
+              "fallback": "朱默涵"
+            }
           },
           {
-            "name": "陈沫"
+            "name": {
+              "zh-CN": "陈沫",
+              "en-US": "Chen Mo",
+              "fallback": "陈沫"
+            }
           },
           {
-            "name": "房承烨"
+            "name": {
+              "zh-CN": "房承烨",
+              "en-US": "Fang Chengye",
+              "fallback": "房承烨"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周淑一",
+              "en-US": "Zhou Shuyi",
+              "fallback": "周淑一"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18380,17 +20280,41 @@
     {
       "user": {
         "id": "86",
-        "name": "队名是队名",
+        "name": {
+          "zh-CN": "队名是队名",
+          "en-US": "team name",
+          "fallback": "队名是队名"
+        },
         "organization": "北京工业大学",
         "teamMembers": [
           {
-            "name": "周若辰"
+            "name": {
+              "zh-CN": "周若辰",
+              "en-US": "Zhou Ruochen",
+              "fallback": "周若辰"
+            }
           },
           {
-            "name": "龚羿丞"
+            "name": {
+              "zh-CN": "龚羿丞",
+              "en-US": "Gong Yicheng",
+              "fallback": "龚羿丞"
+            }
           },
           {
-            "name": "黄励文"
+            "name": {
+              "zh-CN": "黄励文",
+              "en-US": "Huang Liwen",
+              "fallback": "黄励文"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高红雨",
+              "en-US": "Gao Hongyu",
+              "fallback": "高红雨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18598,17 +20522,41 @@
     {
       "user": {
         "id": "77",
-        "name": "无限不循环",
+        "name": {
+          "zh-CN": "无限不循环",
+          "en-US": "while(pi);",
+          "fallback": "无限不循环"
+        },
         "organization": "北方工业大学",
         "teamMembers": [
           {
-            "name": "程鹏"
+            "name": {
+              "zh-CN": "程鹏",
+              "en-US": "Cheng Peng",
+              "fallback": "程鹏"
+            }
           },
           {
-            "name": "黄梨宸"
+            "name": {
+              "zh-CN": "黄梨宸",
+              "en-US": "Huang Lichen",
+              "fallback": "黄梨宸"
+            }
           },
           {
-            "name": "邱睿"
+            "name": {
+              "zh-CN": "邱睿",
+              "en-US": "Qiu Rui",
+              "fallback": "邱睿"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李源",
+              "en-US": "Li Yuan",
+              "fallback": "李源"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18732,17 +20680,41 @@
     {
       "user": {
         "id": "69",
-        "name": "让北化再次味大队",
+        "name": {
+          "zh-CN": "让北化再次味大队",
+          "en-US": "the flavor of buct returns",
+          "fallback": "让北化再次味大队"
+        },
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "江浩"
+            "name": {
+              "zh-CN": "江浩",
+              "en-US": "Jiang Hao",
+              "fallback": "江浩"
+            }
           },
           {
-            "name": "范力烨"
+            "name": {
+              "zh-CN": "范力烨",
+              "en-US": "Fan Liye",
+              "fallback": "范力烨"
+            }
           },
           {
-            "name": "叶鼎豪"
+            "name": {
+              "zh-CN": "叶鼎豪",
+              "en-US": "Ye Dinghao",
+              "fallback": "叶鼎豪"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘勇",
+              "en-US": "Liu Yong",
+              "fallback": "刘勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18873,17 +20845,41 @@
     {
       "user": {
         "id": "64",
-        "name": "喜欢打ACM的小朋友们你们好",
+        "name": {
+          "zh-CN": "喜欢打ACM的小朋友们你们好",
+          "en-US": "How are u CCPC Mifans",
+          "fallback": "喜欢打ACM的小朋友们你们好"
+        },
         "organization": "辽宁大学",
         "teamMembers": [
           {
-            "name": "毛博汉"
+            "name": {
+              "zh-CN": "毛博汉",
+              "en-US": "Mao Bohan",
+              "fallback": "毛博汉"
+            }
           },
           {
-            "name": "吴俊威"
+            "name": {
+              "zh-CN": "吴俊威",
+              "en-US": "Wu Junwei",
+              "fallback": "吴俊威"
+            }
           },
           {
-            "name": "洪一桐"
+            "name": {
+              "zh-CN": "洪一桐",
+              "en-US": "Hong Yitong",
+              "fallback": "洪一桐"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曲大鹏",
+              "en-US": "Qu Dapeng",
+              "fallback": "曲大鹏"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -18986,17 +20982,41 @@
     {
       "user": {
         "id": "36",
-        "name": "魔法火焰",
+        "name": {
+          "zh-CN": "魔法火焰",
+          "en-US": "Magical_flames",
+          "fallback": "魔法火焰"
+        },
         "organization": "浙江工商大学",
         "teamMembers": [
           {
-            "name": "郑安乔元"
+            "name": {
+              "zh-CN": "郑安乔元",
+              "en-US": "Zheng Anqiaoyuan",
+              "fallback": "郑安乔元"
+            }
           },
           {
-            "name": "姚心成"
+            "name": {
+              "zh-CN": "姚心成",
+              "en-US": "Yao Xincheng",
+              "fallback": "姚心成"
+            }
           },
           {
-            "name": "邬子阳"
+            "name": {
+              "zh-CN": "邬子阳",
+              "en-US": "Wu Ziyang",
+              "fallback": "邬子阳"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱旭东",
+              "en-US": "Zhu Xudong",
+              "fallback": "朱旭东"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -19232,17 +21252,41 @@
     {
       "user": {
         "id": "32",
-        "name": "旅行家",
+        "name": {
+          "zh-CN": "旅行家",
+          "en-US": "Tourist",
+          "fallback": "旅行家"
+        },
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "焦一晟"
+            "name": {
+              "zh-CN": "焦一晟",
+              "en-US": "Jiao Yicheng",
+              "fallback": "焦一晟"
+            }
           },
           {
-            "name": "秦浩越"
+            "name": {
+              "zh-CN": "秦浩越",
+              "en-US": "Qin Haoyue",
+              "fallback": "秦浩越"
+            }
           },
           {
-            "name": "张景皓"
+            "name": {
+              "zh-CN": "张景皓",
+              "en-US": "Zhang Jinghao",
+              "fallback": "张景皓"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王和兴",
+              "en-US": "Wang Hexing",
+              "fallback": "王和兴"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -19443,17 +21487,41 @@
     {
       "user": {
         "id": "90",
-        "name": "命运石之门",
+        "name": {
+          "zh-CN": "命运石之门",
+          "en-US": "ElPsyCongroo",
+          "fallback": "命运石之门"
+        },
         "organization": "西南科技大学",
         "teamMembers": [
           {
-            "name": "程立坤"
+            "name": {
+              "zh-CN": "程立坤",
+              "en-US": "Cheng Likun",
+              "fallback": "程立坤"
+            }
           },
           {
-            "name": "童博文"
+            "name": {
+              "zh-CN": "童博文",
+              "en-US": "Tong Bowen",
+              "fallback": "童博文"
+            }
           },
           {
-            "name": "吴子杨"
+            "name": {
+              "zh-CN": "吴子杨",
+              "en-US": "Wu Ziyang",
+              "fallback": "吴子杨"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨春明",
+              "en-US": "Yang Chunming",
+              "fallback": "杨春明"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -19699,17 +21767,41 @@
     {
       "user": {
         "id": "1",
-        "name": "玩王者荣耀不玩黎明杀机",
+        "name": {
+          "zh-CN": "玩王者荣耀不玩黎明杀机",
+          "en-US": "Play Honor of Kings",
+          "fallback": "玩王者荣耀不玩黎明杀机"
+        },
         "organization": "江西农业大学",
         "teamMembers": [
           {
-            "name": "江柏霖"
+            "name": {
+              "zh-CN": "江柏霖",
+              "en-US": "Jiang Bailin",
+              "fallback": "江柏霖"
+            }
           },
           {
-            "name": "刘圣丰"
+            "name": {
+              "zh-CN": "刘圣丰",
+              "en-US": "Liu Shengfeng",
+              "fallback": "刘圣丰"
+            }
           },
           {
-            "name": "吴楚扬"
+            "name": {
+              "zh-CN": "吴楚扬",
+              "en-US": "Wu Chuyang",
+              "fallback": "吴楚扬"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李洪涛",
+              "en-US": "Li Hongtao",
+              "fallback": "李洪涛"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -19959,17 +22051,41 @@
     {
       "user": {
         "id": "101",
-        "name": "云淡风轻",
+        "name": {
+          "zh-CN": "云淡风轻",
+          "en-US": "legend",
+          "fallback": "云淡风轻"
+        },
         "organization": "中国矿业大学（北京）",
         "teamMembers": [
           {
-            "name": "徐靖涵"
+            "name": {
+              "zh-CN": "徐靖涵",
+              "en-US": "Xu Jinghan",
+              "fallback": "徐靖涵"
+            }
           },
           {
-            "name": "周发顺"
+            "name": {
+              "zh-CN": "周发顺",
+              "en-US": "Zhou Fashun",
+              "fallback": "周发顺"
+            }
           },
           {
-            "name": "王晨"
+            "name": {
+              "zh-CN": "王晨",
+              "en-US": "Wang Chen",
+              "fallback": "王晨"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周法国",
+              "en-US": "Zhou Faguo",
+              "fallback": "周法国"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -20138,17 +22254,41 @@
     {
       "user": {
         "id": "67",
-        "name": "WA时在做什么？有没有空？可以来拯救吗？",
+        "name": {
+          "zh-CN": "WA时在做什么？有没有空？可以来拯救吗？",
+          "en-US": "What are you doing when you get WA?",
+          "fallback": "WA时在做什么？有没有空？可以来拯救吗？"
+        },
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "倪亚伦"
+            "name": {
+              "zh-CN": "倪亚伦",
+              "en-US": "Ni Yalun",
+              "fallback": "倪亚伦"
+            }
           },
           {
-            "name": "林梓沛"
+            "name": {
+              "zh-CN": "林梓沛",
+              "en-US": "Lin Zipei",
+              "fallback": "林梓沛"
+            }
           },
           {
-            "name": "常钦保"
+            "name": {
+              "zh-CN": "常钦保",
+              "en-US": "Chang Qinbao",
+              "fallback": "常钦保"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘勇",
+              "en-US": "Liu Yong",
+              "fallback": "刘勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -20356,17 +22496,41 @@
     {
       "user": {
         "id": "24",
-        "name": "不队",
+        "name": {
+          "zh-CN": "不队",
+          "en-US": "NO！！！",
+          "fallback": "不队"
+        },
         "organization": "中国科学院大学",
         "teamMembers": [
           {
-            "name": "张家诚"
+            "name": {
+              "zh-CN": "张家诚",
+              "en-US": "Zhang Jiacheng",
+              "fallback": "张家诚"
+            }
           },
           {
-            "name": "张高翔"
+            "name": {
+              "zh-CN": "张高翔",
+              "en-US": "Zhang Gaoxiang",
+              "fallback": "张高翔"
+            }
           },
           {
-            "name": "陈麒安"
+            "name": {
+              "zh-CN": "陈麒安",
+              "en-US": "Chen Qian",
+              "fallback": "陈麒安"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙晓明",
+              "en-US": "Sun Xiaoming",
+              "fallback": "孙晓明"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -20672,17 +22836,41 @@
     {
       "user": {
         "id": "33",
-        "name": "重生之我是大模拟",
+        "name": {
+          "zh-CN": "重生之我是大模拟",
+          "en-US": "girls team",
+          "fallback": "重生之我是大模拟"
+        },
         "organization": "华中科技大学",
         "teamMembers": [
           {
-            "name": "黄莉雯"
+            "name": {
+              "zh-CN": "黄莉雯",
+              "en-US": "Huang Liwen",
+              "fallback": "黄莉雯"
+            }
           },
           {
-            "name": "任嘉妍"
+            "name": {
+              "zh-CN": "任嘉妍",
+              "en-US": "Ren Jiayan",
+              "fallback": "任嘉妍"
+            }
           },
           {
-            "name": "陈心怡"
+            "name": {
+              "zh-CN": "陈心怡",
+              "en-US": "Chen Xinyi",
+              "fallback": "陈心怡"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何琨",
+              "en-US": "He Kun",
+              "fallback": "何琨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -20796,17 +22984,41 @@
     {
       "user": {
         "id": "103",
-        "name": "哈理工2025",
+        "name": {
+          "zh-CN": "哈理工2025",
+          "en-US": "HRBUST2025",
+          "fallback": "哈理工2025"
+        },
         "organization": "哈尔滨理工大学",
         "teamMembers": [
           {
-            "name": "刘名洋"
+            "name": {
+              "zh-CN": "刘名洋",
+              "en-US": "Liu Mingyang",
+              "fallback": "刘名洋"
+            }
           },
           {
-            "name": "王芷安"
+            "name": {
+              "zh-CN": "王芷安",
+              "en-US": "Wang Zhian",
+              "fallback": "王芷安"
+            }
           },
           {
-            "name": "冉渝旭"
+            "name": {
+              "zh-CN": "冉渝旭",
+              "en-US": "Ran Yuxu",
+              "fallback": "冉渝旭"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶飞",
+              "en-US": "Ye Fei",
+              "fallback": "叶飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21010,17 +23222,41 @@
     {
       "user": {
         "id": "6",
-        "name": "葬送的acmer与香辛料",
+        "name": {
+          "zh-CN": "葬送的acmer与香辛料",
+          "en-US": "Burial of the ACMers and Spices",
+          "fallback": "葬送的acmer与香辛料"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "余逸阳"
+            "name": {
+              "zh-CN": "余逸阳",
+              "en-US": "Yu Yiyang",
+              "fallback": "余逸阳"
+            }
           },
           {
-            "name": "赵俊凯"
+            "name": {
+              "zh-CN": "赵俊凯",
+              "en-US": "Zhao Junkai",
+              "fallback": "赵俊凯"
+            }
           },
           {
-            "name": "李善朔"
+            "name": {
+              "zh-CN": "李善朔",
+              "en-US": "Li Shanshuo",
+              "fallback": "李善朔"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄玮",
+              "en-US": "Huang Wei",
+              "fallback": "黄玮"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21270,17 +23506,41 @@
     {
       "user": {
         "id": "3",
-        "name": "天衣无缝",
+        "name": {
+          "zh-CN": "天衣无缝",
+          "en-US": "AC loves us again",
+          "fallback": "天衣无缝"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "朱思彤"
+            "name": {
+              "zh-CN": "朱思彤",
+              "en-US": "Zhu Sitong",
+              "fallback": "朱思彤"
+            }
           },
           {
-            "name": "马博浩"
+            "name": {
+              "zh-CN": "马博浩",
+              "en-US": "Ma Bohao",
+              "fallback": "马博浩"
+            }
           },
           {
-            "name": "张雨姗"
+            "name": {
+              "zh-CN": "张雨姗",
+              "en-US": "Zhang Yushan",
+              "fallback": "张雨姗"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄玮",
+              "en-US": "Huang Wei",
+              "fallback": "黄玮"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21428,17 +23688,41 @@
     {
       "user": {
         "id": "4",
-        "name": "嗷呜呜呜队",
+        "name": {
+          "zh-CN": "嗷呜呜呜队",
+          "en-US": "AWWW",
+          "fallback": "嗷呜呜呜队"
+        },
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "李鑫贺"
+            "name": {
+              "zh-CN": "李鑫贺",
+              "en-US": "Li Xinhe",
+              "fallback": "李鑫贺"
+            }
           },
           {
-            "name": "常行健"
+            "name": {
+              "zh-CN": "常行健",
+              "en-US": "Chang Xingjian",
+              "fallback": "常行健"
+            }
           },
           {
-            "name": "吕梓扬"
+            "name": {
+              "zh-CN": "吕梓扬",
+              "en-US": "Lv Ziyang",
+              "fallback": "吕梓扬"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨丽芳",
+              "en-US": "Yang Lifang",
+              "fallback": "杨丽芳"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21562,17 +23846,41 @@
     {
       "user": {
         "id": "20",
-        "name": "cola2100",
+        "name": {
+          "zh-CN": "cola2100",
+          "en-US": "cola2100",
+          "fallback": "cola2100"
+        },
         "organization": "河南师范大学",
         "teamMembers": [
           {
-            "name": "吴帅甫"
+            "name": {
+              "zh-CN": "吴帅甫",
+              "en-US": "Wu Shuaifu",
+              "fallback": "吴帅甫"
+            }
           },
           {
-            "name": "侯炳旭"
+            "name": {
+              "zh-CN": "侯炳旭",
+              "en-US": "Hou Bingxu",
+              "fallback": "侯炳旭"
+            }
           },
           {
-            "name": "曹继喆"
+            "name": {
+              "zh-CN": "曹继喆",
+              "en-US": "Cao Jizhe",
+              "fallback": "曹继喆"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "熊青青",
+              "en-US": "Xiong Qingqing",
+              "fallback": "熊青青"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21755,17 +24063,41 @@
     {
       "user": {
         "id": "41",
-        "name": "牛郎念刘娘，刘娘恋牛郎",
+        "name": {
+          "zh-CN": "牛郎念刘娘，刘娘恋牛郎",
+          "en-US": "Niuniu Love Liuliu",
+          "fallback": "牛郎念刘娘，刘娘恋牛郎"
+        },
         "organization": "西安电子科技大学",
         "teamMembers": [
           {
-            "name": "张东伟"
+            "name": {
+              "zh-CN": "张东伟",
+              "en-US": "Zhang Dongwei",
+              "fallback": "张东伟"
+            }
           },
           {
-            "name": "林沁哲"
+            "name": {
+              "zh-CN": "林沁哲",
+              "en-US": "Lin Qinzhe",
+              "fallback": "林沁哲"
+            }
           },
           {
-            "name": "杨威"
+            "name": {
+              "zh-CN": "杨威",
+              "en-US": "Yang Wei",
+              "fallback": "杨威"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "en-US": "Zhang Shuping",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -21875,17 +24207,41 @@
     {
       "user": {
         "id": "115",
-        "name": "舍利子",
+        "name": {
+          "zh-CN": "舍利子",
+          "en-US": "Sarira",
+          "fallback": "舍利子"
+        },
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "陈博"
+            "name": {
+              "zh-CN": "陈博",
+              "en-US": "Chen Bo",
+              "fallback": "陈博"
+            }
           },
           {
-            "name": "姚述军"
+            "name": {
+              "zh-CN": "姚述军",
+              "en-US": "Yao Shujun",
+              "fallback": "姚述军"
+            }
           },
           {
-            "name": "谢秋凡"
+            "name": {
+              "zh-CN": "谢秋凡",
+              "en-US": "Xie Qiufan",
+              "fallback": "谢秋凡"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏飞",
+              "en-US": "Xu Pengfei",
+              "fallback": "徐鹏飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22019,17 +24375,41 @@
     {
       "user": {
         "id": "114",
-        "name": "香蕉狗",
+        "name": {
+          "zh-CN": "香蕉狗",
+          "en-US": "banana-dog",
+          "fallback": "香蕉狗"
+        },
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "肖梓尧"
+            "name": {
+              "zh-CN": "肖梓尧",
+              "en-US": "Xiao Ziyao",
+              "fallback": "肖梓尧"
+            }
           },
           {
-            "name": "张书林"
+            "name": {
+              "zh-CN": "张书林",
+              "en-US": "Zhang Shulin",
+              "fallback": "张书林"
+            }
           },
           {
-            "name": "王宇畅"
+            "name": {
+              "zh-CN": "王宇畅",
+              "en-US": "Wang Yuchang",
+              "fallback": "王宇畅"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐鹏飞",
+              "en-US": "Xu Pengfei",
+              "fallback": "徐鹏飞"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22129,17 +24509,41 @@
     {
       "user": {
         "id": "82",
-        "name": "我队友得了MVP",
+        "name": {
+          "zh-CN": "我队友得了MVP",
+          "en-US": "Temmate won the MVP",
+          "fallback": "我队友得了MVP"
+        },
         "organization": "辽宁科技大学",
         "teamMembers": [
           {
-            "name": "邵熙琛"
+            "name": {
+              "zh-CN": "邵熙琛",
+              "en-US": "Shao Xichen",
+              "fallback": "邵熙琛"
+            }
           },
           {
-            "name": "吴炳熠"
+            "name": {
+              "zh-CN": "吴炳熠",
+              "en-US": "Wu Bingyi",
+              "fallback": "吴炳熠"
+            }
           },
           {
-            "name": "王浩"
+            "name": {
+              "zh-CN": "王浩",
+              "en-US": "Wang Hao",
+              "fallback": "王浩"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张秀梅",
+              "en-US": "Zhang Xiumei",
+              "fallback": "张秀梅"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22459,17 +24863,41 @@
     {
       "user": {
         "id": "38",
-        "name": "北矿小队",
+        "name": {
+          "zh-CN": "北矿小队",
+          "en-US": "CUMTB-Mining",
+          "fallback": "北矿小队"
+        },
         "organization": "中国矿业大学（北京）",
         "teamMembers": [
           {
-            "name": "李佳豪"
+            "name": {
+              "zh-CN": "李佳豪",
+              "en-US": "Li Jiahao",
+              "fallback": "李佳豪"
+            }
           },
           {
-            "name": "杨文强"
+            "name": {
+              "zh-CN": "杨文强",
+              "en-US": "Yang Wenqiang",
+              "fallback": "杨文强"
+            }
           },
           {
-            "name": "饶汉青"
+            "name": {
+              "zh-CN": "饶汉青",
+              "en-US": "Rao Hanqing",
+              "fallback": "饶汉青"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周法国",
+              "en-US": "Zhou Faguo",
+              "fallback": "周法国"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22649,17 +25077,41 @@
     {
       "user": {
         "id": "60",
-        "name": "不像我，只会心疼姐姐~",
+        "name": {
+          "zh-CN": "不像我，只会心疼姐姐~",
+          "en-US": "Green Tea",
+          "fallback": "不像我，只会心疼姐姐~"
+        },
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "零兆媛"
+            "name": {
+              "zh-CN": "零兆媛",
+              "en-US": "Ling Zhaoyuan",
+              "fallback": "零兆媛"
+            }
           },
           {
-            "name": "邓雅馨"
+            "name": {
+              "zh-CN": "邓雅馨",
+              "en-US": "Deng Yaxin",
+              "fallback": "邓雅馨"
+            }
           },
           {
-            "name": "蒋欣彤"
+            "name": {
+              "zh-CN": "蒋欣彤",
+              "en-US": "Jiang Xintong",
+              "fallback": "蒋欣彤"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林永钢",
+              "en-US": "Lin Yonggang",
+              "fallback": "林永钢"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22835,17 +25287,41 @@
     {
       "user": {
         "id": "71",
-        "name": "TRfirst粉丝团",
+        "name": {
+          "zh-CN": "TRfirst粉丝团",
+          "en-US": "TRfirst_fan",
+          "fallback": "TRfirst粉丝团"
+        },
         "organization": "北京信息科技大学",
         "teamMembers": [
           {
-            "name": "孙之航"
+            "name": {
+              "zh-CN": "孙之航",
+              "en-US": "Sun Zhihang",
+              "fallback": "孙之航"
+            }
           },
           {
-            "name": "杜金泽"
+            "name": {
+              "zh-CN": "杜金泽",
+              "en-US": "Du Jinze",
+              "fallback": "杜金泽"
+            }
           },
           {
-            "name": "孙子鹤"
+            "name": {
+              "zh-CN": "孙子鹤",
+              "en-US": "Sun Zihe",
+              "fallback": "孙子鹤"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周淑一",
+              "en-US": "Zhou Shuyi",
+              "fallback": "周淑一"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -22955,17 +25431,41 @@
     {
       "user": {
         "id": "47",
-        "name": "剑指铜牌",
+        "name": {
+          "zh-CN": "剑指铜牌",
+          "en-US": "Point the Sword at the Bronze",
+          "fallback": "剑指铜牌"
+        },
         "organization": "北京印刷学院",
         "teamMembers": [
           {
-            "name": "赵子熙"
+            "name": {
+              "zh-CN": "赵子熙",
+              "en-US": "Zhao Zixi",
+              "fallback": "赵子熙"
+            }
           },
           {
-            "name": "张玉龙"
+            "name": {
+              "zh-CN": "张玉龙",
+              "en-US": "Zhang Yulong",
+              "fallback": "张玉龙"
+            }
           },
           {
-            "name": "蒋帆"
+            "name": {
+              "zh-CN": "蒋帆",
+              "en-US": "Jiang Fan",
+              "fallback": "蒋帆"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐长波",
+              "en-US": "Xu Changbo",
+              "fallback": "徐长波"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23089,17 +25589,41 @@
     {
       "user": {
         "id": "26",
-        "name": "河童工学院",
+        "name": {
+          "zh-CN": "河童工学院",
+          "en-US": "HeTongTechnologyCollege",
+          "fallback": "河童工学院"
+        },
         "organization": "合肥工业大学",
         "teamMembers": [
           {
-            "name": "潘俊"
+            "name": {
+              "zh-CN": "潘俊",
+              "en-US": "Pan Jun",
+              "fallback": "潘俊"
+            }
           },
           {
-            "name": "张力中"
+            "name": {
+              "zh-CN": "张力中",
+              "en-US": "Zhang Lizhong",
+              "fallback": "张力中"
+            }
           },
           {
-            "name": "王腾昊"
+            "name": {
+              "zh-CN": "王腾昊",
+              "en-US": "Wang Tenghao",
+              "fallback": "王腾昊"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐本柱",
+              "en-US": "Xu Benzhu",
+              "fallback": "徐本柱"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23296,17 +25820,41 @@
     {
       "user": {
         "id": "55",
-        "name": "听取wa声一片",
+        "name": {
+          "zh-CN": "听取wa声一片",
+          "en-US": "Hear a chorus of \"wa\" sounds",
+          "fallback": "听取wa声一片"
+        },
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "刘卓凡"
+            "name": {
+              "zh-CN": "刘卓凡",
+              "en-US": "Liu Zhuofan",
+              "fallback": "刘卓凡"
+            }
           },
           {
-            "name": "朱斯靖"
+            "name": {
+              "zh-CN": "朱斯靖",
+              "en-US": "Zhu Sijing",
+              "fallback": "朱斯靖"
+            }
           },
           {
-            "name": "张弘弛"
+            "name": {
+              "zh-CN": "张弘弛",
+              "en-US": "Zhang Hongchi",
+              "fallback": "张弘弛"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘勇",
+              "en-US": "Liu Yong",
+              "fallback": "刘勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23517,17 +26065,41 @@
     {
       "user": {
         "id": "62",
-        "name": "麻衣学姐想吃北京烤鸭",
+        "name": {
+          "zh-CN": "麻衣学姐想吃北京烤鸭",
+          "en-US": "Miss Mai wants to eat Beijing roast duck",
+          "fallback": "麻衣学姐想吃北京烤鸭"
+        },
         "organization": "华中师范大学",
         "teamMembers": [
           {
-            "name": "赵宇轩"
+            "name": {
+              "zh-CN": "赵宇轩",
+              "en-US": "Zhao Yuxuan",
+              "fallback": "赵宇轩"
+            }
           },
           {
-            "name": "王绪毅"
+            "name": {
+              "zh-CN": "王绪毅",
+              "en-US": "Wang Xuyi",
+              "fallback": "王绪毅"
+            }
           },
           {
-            "name": "邹卓昂"
+            "name": {
+              "zh-CN": "邹卓昂",
+              "en-US": "Zou Zhuoang",
+              "fallback": "邹卓昂"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶俊民",
+              "en-US": "Ye Junmin",
+              "fallback": "叶俊民"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23686,17 +26258,41 @@
     {
       "user": {
         "id": "56",
-        "name": "牢码队",
+        "name": {
+          "zh-CN": "牢码队",
+          "en-US": "lao ma",
+          "fallback": "牢码队"
+        },
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "程泽华"
+            "name": {
+              "zh-CN": "程泽华",
+              "en-US": "Cheng Zehua",
+              "fallback": "程泽华"
+            }
           },
           {
-            "name": "王松浩"
+            "name": {
+              "zh-CN": "王松浩",
+              "en-US": "Wang Songhao",
+              "fallback": "王松浩"
+            }
           },
           {
-            "name": "伍宸"
+            "name": {
+              "zh-CN": "伍宸",
+              "en-US": "Wu Chen",
+              "fallback": "伍宸"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘勇",
+              "en-US": "Liu Yong",
+              "fallback": "刘勇"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23827,17 +26423,41 @@
     {
       "user": {
         "id": "16",
-        "name": "AK自动机",
+        "name": {
+          "zh-CN": "AK自动机",
+          "en-US": "AK automata",
+          "fallback": "AK自动机"
+        },
         "organization": "闽南师范大学",
         "teamMembers": [
           {
-            "name": "许诚达"
+            "name": {
+              "zh-CN": "许诚达",
+              "en-US": "Xu Chengda",
+              "fallback": "许诚达"
+            }
           },
           {
-            "name": "黄良平"
+            "name": {
+              "zh-CN": "黄良平",
+              "en-US": "Huang Liangping",
+              "fallback": "黄良平"
+            }
           },
           {
-            "name": "王嘉鈜"
+            "name": {
+              "zh-CN": "王嘉鈜",
+              "en-US": "Wang Jiahong",
+              "fallback": "王嘉鈜"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐星",
+              "en-US": "Xu Xing",
+              "fallback": "徐星"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -23937,17 +26557,41 @@
     {
       "user": {
         "id": "73",
-        "name": "dremlory粉丝团",
+        "name": {
+          "zh-CN": "dremlory粉丝团",
+          "en-US": "dremlory_fan",
+          "fallback": "dremlory粉丝团"
+        },
         "organization": "北京信息科技大学",
         "teamMembers": [
           {
-            "name": "方梓谦"
+            "name": {
+              "zh-CN": "方梓谦",
+              "en-US": "Fang Ziqian",
+              "fallback": "方梓谦"
+            }
           },
           {
-            "name": "崔耘硕"
+            "name": {
+              "zh-CN": "崔耘硕",
+              "en-US": "Cui Yunshuo",
+              "fallback": "崔耘硕"
+            }
           },
           {
-            "name": "张竣豪"
+            "name": {
+              "zh-CN": "张竣豪",
+              "en-US": "Zhang Junhao",
+              "fallback": "张竣豪"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周淑一",
+              "en-US": "Zhou Shuyi",
+              "fallback": "周淑一"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -24183,17 +26827,41 @@
     {
       "user": {
         "id": "76",
-        "name": "凛冬破晓",
+        "name": {
+          "zh-CN": "凛冬破晓",
+          "en-US": "WinterHack",
+          "fallback": "凛冬破晓"
+        },
         "organization": "北方工业大学",
         "teamMembers": [
           {
-            "name": "王浩轩"
+            "name": {
+              "zh-CN": "王浩轩",
+              "en-US": "Wang Haoxuan",
+              "fallback": "王浩轩"
+            }
           },
           {
-            "name": "马羽菡"
+            "name": {
+              "zh-CN": "马羽菡",
+              "en-US": "Ma Yuhan",
+              "fallback": "马羽菡"
+            }
           },
           {
-            "name": "张鑫洋"
+            "name": {
+              "zh-CN": "张鑫洋",
+              "en-US": "Zhang Xinyang",
+              "fallback": "张鑫洋"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙晶",
+              "en-US": "Sun Jing",
+              "fallback": "孙晶"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -24394,17 +27062,41 @@
     {
       "user": {
         "id": "17",
-        "name": "月落星沉",
+        "name": {
+          "zh-CN": "月落星沉",
+          "en-US": "Meet The Dawn",
+          "fallback": "月落星沉"
+        },
         "organization": "重庆城市科技学院",
         "teamMembers": [
           {
-            "name": "陈民君"
+            "name": {
+              "zh-CN": "陈民君",
+              "en-US": "Chen Minjun",
+              "fallback": "陈民君"
+            }
           },
           {
-            "name": "董铮"
+            "name": {
+              "zh-CN": "董铮",
+              "en-US": "Dong Zheng",
+              "fallback": "董铮"
+            }
           },
           {
-            "name": "刘英凯"
+            "name": {
+              "zh-CN": "刘英凯",
+              "en-US": "Liu Yingkai",
+              "fallback": "刘英凯"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "颜烨",
+              "en-US": "Yan Ye",
+              "fallback": "颜烨"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -24647,17 +27339,41 @@
     {
       "user": {
         "id": "10",
-        "name": "超级棒的想法",
+        "name": {
+          "zh-CN": "超级棒的想法",
+          "en-US": "gooood idea",
+          "fallback": "超级棒的想法"
+        },
         "organization": "福州工商学院",
         "teamMembers": [
           {
-            "name": "郑杰"
+            "name": {
+              "zh-CN": "郑杰",
+              "en-US": "Zheng Jie",
+              "fallback": "郑杰"
+            }
           },
           {
-            "name": "余延鳐"
+            "name": {
+              "zh-CN": "余延鳐",
+              "en-US": "Yu Yanyao",
+              "fallback": "余延鳐"
+            }
           },
           {
-            "name": "苏晓桂"
+            "name": {
+              "zh-CN": "苏晓桂",
+              "en-US": "Su Xiaogui",
+              "fallback": "苏晓桂"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨友",
+              "en-US": "Yang You",
+              "fallback": "杨友"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -24871,17 +27587,41 @@
     {
       "user": {
         "id": "66",
-        "name": "A了这道题就吃板烧坤腿堡",
+        "name": {
+          "zh-CN": "A了这道题就吃板烧坤腿堡",
+          "en-US": "give @AC Grilled Chicken Burger",
+          "fallback": "A了这道题就吃板烧坤腿堡"
+        },
         "organization": "中央民族大学",
         "teamMembers": [
           {
-            "name": "李家鑫"
+            "name": {
+              "zh-CN": "李家鑫",
+              "en-US": "Li Jiaxin",
+              "fallback": "李家鑫"
+            }
           },
           {
-            "name": "郑博文"
+            "name": {
+              "zh-CN": "郑博文",
+              "en-US": "Zheng Bowen",
+              "fallback": "郑博文"
+            }
           },
           {
-            "name": "郭镒闻"
+            "name": {
+              "zh-CN": "郭镒闻",
+              "en-US": "Guo Yiwen",
+              "fallback": "郭镒闻"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙娜",
+              "en-US": "Sun Na",
+              "fallback": "孙娜"
+            },
+            "role": "coach"
           }
         ],
         "official": true
